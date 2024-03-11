@@ -1,0 +1,2452 @@
+Additives and Oxygenates - Exports
+Additives and Oxygenates - Imports
+Additives and Oxygenates - Production
+Additives and Oxygenates - Receipts from other sources
+Additives and Oxygenates - Stock changes
+Additives and Oxygenates - Total energy supply
+Additives and Oxygenates - transfers and recycled products
+Additives and Oxygenates - Transformation
+Additives and Oxygenates - Transformation in oil refineries
+Animal waste - Consumption by commerce and public services
+Animal waste - Consumption by food and tobacco 
+Animal waste - Consumption by households
+Animal waste - Consumption by manufacturing, construction and non-fuel industry
+Animal waste - Consumption by non-metallic minerals 
+Animal waste - Consumption by other
+Animal waste - Consumption by other manuf., const. and non-fuel min. ind.
+Animal waste - Consumption in agriculture, forestry and fishing
+Animal waste - Consumption not elsewhere specified (industry)
+Animal waste - Consumption not elsewhere specified (other)
+Animal waste - Final consumption
+Animal waste - Final energy consumption
+Animal waste - Production
+Animal waste - Total energy supply
+animal waste - Transformation
+Animal waste - Transformation in electricity, CHP and heat plants
+Animal waste - Transformation in electricity plants - main activity producers
+Anthracite - commerce and public services
+Anthracite - consumption by agriculture, forestry and fishing
+Anthracite - consumption by chemical and petrochemical
+Anthracite - consumption by construction
+Anthracite - consumption by food and tobacco
+Anthracite - consumption by iron and steel
+Anthracite - consumption by machinery
+Anthracite - consumption by manufacturing, construction and non-fuel industry
+Anthracite - consumption by mining and quarrying
+Anthracite - consumption by non-ferrous metals
+Anthracite - consumption by non-metallic minerals
+Anthracite - consumption by other
+Anthracite - consumption by other manuf., const. and non-fuel ind.
+Anthracite - consumption by paper, pulp and print
+Anthracite - consumption by rail
+Anthracite - consumption by textile and leather
+Anthracite - consumption by wood and wood products industry
+Anthracite - consumption in households
+Anthracite - Consumption in transport
+Anthracite - consumption not elsewhere specified (industry)
+Anthracite - consumption not elsewhere specified (other)
+Anthracite - consumption not elsewhere specified (transport)
+Anthracite - energy industries own use
+Anthracite - exports
+Anthracite - Final consumption
+Anthracite - final energy consumption
+Anthracite - imports
+Anthracite - losses
+Anthracite - non-energy use
+Anthracite - other transformation
+Anthracite - own use by briquetting plants
+Anthracite - own use by coal mines
+Anthracite - own use by coke ovens
+Anthracite - own use by electricity, CHP and heat plants
+Anthracite - production
+Anthracite - receipts from other sources
+Anthracite - stock changes
+Anthracite - Total energy supply
+Anthracite - transformation
+Anthracite - transformation in blast furnaces
+Anthracite - transformation in briquetting plants
+Anthracite - transformation in CHP plants - autoproducers
+Anthracite - transformation in CHP plants - main activity producers
+Anthracite - transformation in coke ovens
+Anthracite - transformation in electricity, CHP and heat plants
+Anthracite - transformation in electricity plants - autoproducers
+Anthracite - transformation in electricity plants - main activity producers
+Anthracite - transformation in heat plants - autoproducers
+Anthracite - transformation in heat plants - main activity producers
+Aviation gasoline - Consumption by agriculture, forestry and fishing
+Aviation gasoline - Consumption by chemical and petrochemical
+Aviation gasoline - Consumption by commerce and public services
+Aviation gasoline - Consumption by construction 
+Aviation gasoline - Consumption by manufacturing, construction and non-fuel industry
+Aviation gasoline - Consumption by non-ferrous metals 
+Aviation gasoline - Consumption by non-metallic minerals 
+Aviation gasoline - Consumption by other
+Aviation gasoline - Consumption by other manuf., const. and non-fuel ind.
+Aviation gasoline - Consumption by transport
+Aviation gasoline - Consumption by transport equipment 
+Aviation gasoline - Consumption in domestic aviation
+Aviation gasoline - Consumption not elsewhere specified (other)
+Aviation gasoline - Consumption not elsewhere specified (transport)
+Aviation gasoline - Exports
+Aviation gasoline - Final consumption
+Aviation gasoline - Final energy consumption
+Aviation gasoline - Imports
+Aviation gasoline - International aviation bunkers
+Aviation gasoline - Losses
+Aviation gasoline - Production
+Aviation gasoline - production from plants
+Aviation gasoline - production from refineries
+Aviation gasoline - Stock changes
+Aviation gasoline - Total energy supply
+Aviation gasoline - Transfers and recycled products
+Bagasse - Consumption by chemical and petrochemical
+Bagasse - Consumption by food and tobacco 
+Bagasse - Consumption by manufacturing, construction and non-fuel industry
+Bagasse - Consumption by non-ferrous metals 
+Bagasse - Consumption by non-metallic minerals 
+Bagasse - Consumption by other
+Bagasse - Consumption by other manuf., const. and non-fuel ind.
+Bagasse - Consumption by paper, pulp and print
+Bagasse - Consumption by wood and wood products 
+Bagasse - Consumption not elsewhere specified (industry)
+Bagasse - Consumption not elsewhere specified (other)
+Bagasse - Energy industries own use
+Bagasse - Final consumption
+Bagasse - Final energy consumption
+Bagasse - Non-energy uses
+Bagasse - Other energy industry own use
+Bagasse - Other transformation
+Bagasse - Production
+Bagasse - Stock changes
+Bagasse - Total energy supply
+Bagasse - Transformation
+Bagasse - Transformation in CHP plants - autoproducers
+Bagasse - Transformation in CHP plants - main activity producers
+Bagasse - Transformation in electricity, CHP and heat plants
+Bagasse - Transformation in electricity plants - autoproducers
+Bagasse - Transformation in electricity plants - main activity producers
+Biodiesel - Consumption by agriculture, forestry and fishing
+Biodiesel - Consumption by chemical and petrochemical
+Biodiesel - Consumption by commerce and public services
+Biodiesel - Consumption by construction 
+Biodiesel - Consumption by domestic navigation
+Biodiesel - Consumption by food and tobacco 
+Biodiesel - Consumption by households
+Biodiesel - Consumption by iron and steel
+Biodiesel - Consumption by machinery 
+Biodiesel - Consumption by manufacturing, construction and non-fuel mining industry
+Biodiesel - Consumption by mining and quarrying 
+Biodiesel - Consumption by non-metallic minerals 
+Biodiesel - Consumption by other
+Biodiesel - Consumption by other manufacturing, construction and non-fuel mining industry
+Biodiesel - Consumption by paper, pulp and print
+Biodiesel - Consumption by rail
+Biodiesel - Consumption by road
+Biodiesel - Consumption by textile and leather 
+Biodiesel - Consumption by transport equipment 
+Biodiesel - Consumption by wood and wood products 
+Biodiesel - Consumption in transport
+Biodiesel - Consumption not elsewhere specified (industry)
+Biodiesel - Consumption not elsewhere specified (other)
+Biodiesel - Consumption not elsewhere specified (transport)
+Biodiesel - Energy industries own use
+Biodiesel - Exports
+Biodiesel - Final consumption
+Biodiesel - Final energy consumption
+Biodiesel - Imports
+Biodiesel - International marine bunkers
+Biodiesel - Losses
+Biodiesel - Net transfers
+Biodiesel - Other energy industry own use
+Biodiesel - Other transformation processes not elsewhere classified
+Biodiesel - Own use by coal mines
+Biodiesel - Own use by oil and gas extraction
+Biodiesel - Production
+Biodiesel - Stock changes
+Biodiesel - Total energy supply
+Biodiesel - Transformation
+Biodiesel - Transformation in CHP plants - autoproducers
+Biodiesel - Transformation in CHP plants - main activity producers
+Biodiesel - Transformation in electricity, CHP and heat plants
+Biodiesel - Transformation in electricity plants - autoproducers
+Biodiesel - Transformation in electricity plants - main activity producers
+Biogases - Consumption by agriculture, forestry and fishing
+Biogases - Consumption by chemical and petrochemical
+Biogases - Consumption by commerce and public services
+Biogases - Consumption by construction 
+Biogases - Consumption by food and tobacco 
+Biogases - Consumption by Households
+Biogases - Consumption by iron and steel
+Biogases - Consumption by machinery 
+Biogases - Consumption by manufacturing, construction and non-fuel mining industry
+Biogases - Consumption by mining and quarrying 
+Biogases - Consumption by non-ferrous metals 
+Biogases - Consumption by non-metallic minerals 
+Biogases - Consumption by other
+Biogases - Consumption by other manuf., const. and non-fuel ind.
+Biogases - Consumption by paper, pulp and print
+Biogases - Consumption by road
+Biogases - Consumption by textile and leather 
+Biogases - Consumption by transport
+Biogases - Consumption by transport equipment 
+Biogases - Consumption by wood and wood products 
+Biogases - Consumption not elsewhere specified (industry)
+Biogases - Consumption not elsewhere specified (other)
+Biogases - Consumption not elsewhere specified (transport)
+Biogases - Energy industries own use
+Biogases - Final consumption
+Biogases - Final energy consumption
+Biogases - Imports
+Biogases - Losses
+Biogases - Other energy industry own use
+Biogases - Other transformation
+Biogases - Own use by biogas production plants
+Biogases - Own use by electricity, CHP and heat plants
+Biogases - Production
+Biogases - Stock changes
+Biogases - Total energy supply
+Biogases - Transformation
+Biogases - Transformation in CHP plants - autoproducers
+Biogases - Transformation in CHP plants - main activity producers
+Biogases - Transformation in electricity, CHP and heat plants
+Biogases - Transformation in electricity plants - autoproducers
+Biogases - Transformation in electricity plants - main activity producers
+Biogases - Transformation in gas works
+Biogases - Transformation in heat plants - autoproducers
+Biogases - Transformation in heat plants - main activity producers
+Biogases - Transformation in natural gas blending plants
+Biogasoline - Consumption by agriculture, forestry and fishing
+Biogasoline - Consumption by commerce and public services
+Biogasoline - Consumption by domestic navigation
+Biogasoline - Consumption by households
+Biogasoline - Consumption by manufacturing, construction and non-fuel industry
+Biogasoline - Consumption by mining and quarrying 
+Biogasoline - Consumption by Other
+Biogasoline - Consumption by other manuf., const. and non-fuel ind.
+Biogasoline - Consumption by road
+Biogasoline - consumption by transport
+Biogasoline - Consumption not elsewhere specified (other)
+Biogasoline - Consumption not elsewhere specified (transport)
+Biogasoline - Energy industries own use
+Biogasoline - exports
+Biogasoline - Final consumption
+Biogasoline - Final energy consumption
+Biogasoline - imports
+Biogasoline - losses
+Biogasoline - Own use by coal mines
+Biogasoline - own use by oil and gas extraction
+Biogasoline - production
+Biogasoline - stock changes
+Biogasoline - Total energy supply
+Biogasoline - transfers and recycled products
+Bitumen - Consumption by chemical and petrochemical
+Bitumen - Consumption by construction 
+Bitumen - Consumption by households
+Bitumen - Consumption by industries not elsewhere specified
+Bitumen - Consumption by iron and steel
+Bitumen - Consumption by machinery 
+Bitumen - consumption by manufacturing, construction and non-fuel mining industry
+Bitumen - Consumption by mining and quarrying 
+Bitumen - Consumption by non-ferrous metals 
+Bitumen - Consumption by non-metallic minerals 
+Bitumen - Consumption by other
+Bitumen - Consumption by other consumers
+Bitumen - consumption by other manuf., const. and non-fuel min. ind.
+Bitumen - consumption by other transportation
+Bitumen - Consumption by transport
+Bitumen - Energy industries own use
+Bitumen - Exports
+Bitumen - Final consumption
+Bitumen - Final energy consumption
+Bitumen - Imports
+Bitumen - International marine bunkers
+Bitumen - Losses
+Bitumen - Non-energy uses
+Bitumen - Other energy industry own use
+Bitumen - Own use by oil refineries
+Bitumen - Production
+Bitumen - production from plants
+Bitumen - production from refineries
+Bitumen - Stock changes
+Bitumen - Total energy supply
+Bitumen - Transfers and recycled products
+Bitumen - Transformation
+Bitumen - Transformation in briquetting plants
+Bitumen - Transformation in coke ovens
+Bitumen - Transformation in electricity, CHP and heat plants
+Bitumen - Transformation in electricity plants - autoproducers
+Bitumen - Transformation in electricity plants - main activity producers
+Black Liquor - Consumption by food and tobacco 
+Black Liquor - Consumption by households
+Black Liquor - Consumption by machinery 
+Black Liquor - Consumption by manufacturing, construction and non-fuel mining industry
+Black Liquor - Consumption by other manuf., const. and non-fuel ind.
+Black Liquor - Consumption by paper, pulp and print
+Black Liquor - Consumption by wood and wood products 
+Black Liquor - Consumption not elsewhere specified (industry)
+Black Liquor - Final consumption
+Black Liquor - Final energy consumption
+Black Liquor - Other transformation
+Black Liquor - Production
+Black Liquor - Total energy supply
+Black Liquor - Transformation
+Black Liquor - Transformation in CHP plants - autoproducers
+Black Liquor - Transformation in CHP plants - main activity producers
+Black Liquor - Transformation in electricity, CHP and heat plants
+Black Liquor - Transformation in electricity plants - autoproducers
+Black Liquor - Transformation in electricity plants - main activity producers
+Black Liquor - Transformation in heat plants - autoproducers
+Black Liquor - Transformation in heat plants - main activity producers
+Blast Furnace Gas - Consumption by chemical and petrochemical
+Blast Furnace Gas - Consumption by construction 
+Blast Furnace Gas - Consumption by food and tobacco 
+Blast Furnace Gas - Consumption by iron and steel
+Blast Furnace Gas - Consumption by machinery 
+Blast Furnace Gas - Consumption by manufacturing, construction and non-fuel industry
+Blast Furnace Gas - Consumption by mining and quarrying 
+Blast Furnace Gas - Consumption by non-ferrous metals 
+Blast Furnace Gas - Consumption by non-metallic minerals 
+Blast Furnace Gas - Consumption by other manuf., const. and non-fuel ind.
+Blast Furnace Gas - Consumption by paper, pulp and print
+Blast Furnace Gas - Consumption by transport equipment 
+Blast Furnace Gas - Consumption not elsewhere specified (industry)
+Blast Furnace Gas - Energy industries own use
+Blast furnace gas - final consumption
+Blast Furnace Gas - Final energy consumption
+Blast Furnace Gas - Losses
+Blast Furnace Gas - Non-energy uses
+Blast Furnace Gas - Other transformation
+Blast Furnace Gas - Own use by blast furnaces
+Blast Furnace Gas - Own use by coal mines
+Blast Furnace Gas - Own use by coke ovens
+Blast Furnace Gas - Own use by electricity, heat and CHP plants
+Blast Furnace Gas - Own use by other energy producers
+Blast Furnace Gas - Production
+Blast furnace gas - Total energy supply
+Blast furnace gas - Transformation
+Blast Furnace Gas - Transformation in CHP plants - autoproducers
+Blast Furnace Gas - Transformation in CHP plants - main activity producers
+Blast Furnace Gas - Transformation in coke ovens
+Blast Furnace Gas - Transformation in electricity, CHP and heat plants
+Blast Furnace Gas - Transformation in electricity plants - autoproducers
+Blast Furnace Gas - Transformation in electricity plants - main activity producers
+Blast Furnace Gas - Transformation in heat plants - autoproducers
+Blast Furnace Gas - Transformation in heat plants - main activity producers
+Brown coal briquettes - consumption by briquetting plants
+Brown coal briquettes - consumption by chemical and petrochemical industry
+Brown coal briquettes - Consumption by coal mines
+Brown Coal Briquettes - Consumption by commerce and public services
+Brown Coal Briquettes - Consumption by construction 
+Brown Coal Briquettes - Consumption by food and tobacco 
+Brown coal briquettes - consumption by households
+Brown coal briquettes - consumption by iron and steel industry
+Brown Coal Briquettes - Consumption by machinery 
+Brown coal briquettes - consumption by manufacturing, construction and non-fuel mining industry
+Brown Coal Briquettes - Consumption by mining and quarrying 
+Brown Coal Briquettes - Consumption by non-ferrous metals 
+Brown Coal Briquettes - Consumption by non-metallic minerals 
+Brown coal briquettes - consumption by Other
+Brown coal briquettes - Consumption by other manuf., const. and non-fuel ind.
+Brown Coal Briquettes - Consumption by paper, pulp and print
+Brown Coal Briquettes - Consumption by textile and leather 
+Brown coal briquettes - consumption by transport
+Brown Coal Briquettes - Consumption by transport equipment 
+Brown Coal Briquettes - Consumption by wood and wood products 
+Brown coal briquettes - Consumption for non-energy uses
+Brown coal briquettes - consumption in agriculture, forestry and fishing
+Brown coal briquettes - consumption in rail
+Brown Coal Briquettes - Consumption not elsewhere specified (industry)
+Brown coal briquettes - Consumption not elsewhere specified (other)
+Brown coal briquettes - energy industries own use
+Brown coal briquettes - exports
+Brown coal briquettes - final consumption
+Brown Coal Briquettes - Final energy consumption
+Brown coal briquettes - imports
+Brown coal briquettes - losses
+Brown coal briquettes - Other energy industry own use
+Brown coal briquettes - other transformation
+Brown Coal Briquettes - Own use by oil refineries
+Brown coal briquettes - production
+Brown coal briquettes - Receipts from other sources
+Brown coal briquettes - stock changes
+Brown coal briquettes - Total energy supply
+Brown coal briquettes - Transformation
+Brown coal briquettes - Transformation in blast furnaces
+Brown coal briquettes - transformation in briquetting plants
+Brown Coal Briquettes - Transformation in CHP plants - autoproducers
+Brown Coal Briquettes - Transformation in CHP plants - main activity producers
+Brown coal briquettes - Transformation in electricity, CHP and heat plants
+Brown coal briquettes - Transformation in electricity plants - autoproducers
+Brown coal briquettes - Transformation in electricity plants - main activity producers
+Brown coal briquettes - transformation in gas works
+Brown Coal Briquettes - Transformation in heat plants - autoproducers
+Brown Coal Briquettes - Transformation in heat plants - main activity producers
+Brown coal - changes in stocks
+Brown coal - consumption by chemical and petrochemical industry
+Brown coal - Consumption by commerce and public services
+Brown coal - Consumption by construction industry
+Brown coal - Consumption by domestic navigation
+Brown coal - Consumption by food, beverage and tobacco industry
+Brown coal - consumption by households
+Brown coal - consumption by iron and steel industry
+Brown coal - Consumption by machinery industry
+Brown coal - consumption by manufacturing, construction and non-fuel mining industry
+Brown coal - Consumption by mining and quarrying industry
+Brown coal - Consumption by non-ferrous metals industry
+Brown coal - Consumption by non-metallic minerals industry
+Brown coal - consumption by Other
+Brown coal - consumption by other manuf., const. and non-fuel ind.
+Brown coal - Consumption by paper, pulp and print
+Brown coal - Consumption by textile and leather
+Brown coal - Consumption by transport
+Brown coal - Consumption by transport equipment industry
+Brown coal - Consumption by wood and wood products industry
+Brown coal - consumption in agriculture, forestry and fishing
+Brown coal - consumption in rail
+Brown coal - Consumption not elsewhere specified (industry)
+Brown coal - consumption not elsewhere specified (other)
+Brown coal - consumption not elsewhere specified (transport)
+Brown coal - energy industries own use
+Brown coal - exports
+Brown coal - final consumption
+Brown coal - Final energy consumption
+Brown coal - imports
+Brown coal - losses
+Brown coal - non-energy uses
+Brown coal - other energy industry own use
+Brown coal - Other transformation
+Brown coal - own use by briquetting plants
+Brown coal - own use by coal mines
+Brown coal - own use by electricity, CHP and heat plants
+Brown coal - own use by gasworks
+Brown coal - own use by oil refineries
+Brown coal - production
+Brown coal - Receipts from other sources
+Brown coal - Total energy supply
+Brown coal - transformation
+Brown coal - Transformation in autoproducer CHP plants
+Brown coal - Transformation in autoproducer electricity plants
+Brown coal - Transformation in autoproducer heat plants
+Brown coal - transformation in briquetting plants
+Brown coal - transformation in coke ovens
+Brown coal - Transformation in electricity, CHP and heat plants
+Brown coal - transformation in gas works
+Brown coal - Transformation in main activity CHP plants
+Brown coal - Transformation in main activity electricity plants
+Brown coal - Transformation in main activity heat plants
+Lignite brown coal - additional resources
+Lignite brown coal- recoverable resources
+Lignite brown coal - total known reserves
+Lignite brown coal - total resources in place
+Charcoal - Consumption by agriculture, forestry and fishing
+Charcoal - Consumption by chemical and petrochemical
+Charcoal - Consumption by commerce and public services
+Charcoal - Consumption by food and tobacco 
+Charcoal - Consumption by households
+Charcoal - Consumption by iron and steel
+Charcoal - Consumption by machinery 
+Charcoal - Consumption by manufacturing, construction and non-fuel industry
+Charcoal - Consumption by mining and quarrying 
+Charcoal - Consumption by non-ferrous metals 
+Charcoal - Consumption by non-metallic minerals 
+Charcoal - Consumption by other
+Charcoal - Consumption by other manuf., const. and non-fuel ind.
+Charcoal - Consumption by paper, pulp and print
+Charcoal - Consumption by textile and leather 
+Charcoal - Consumption not elsewhere specified (industry)
+Charcoal - Consumption not elsewhere specified (other)
+Charcoal - Exports
+Charcoal - Final consumption
+Charcoal - Final energy consumption
+Charcoal - Imports
+Charcoal - Losses
+Charcoal - Non-energy uses
+Charcoal - Production
+Charcoal - Stock changes
+Charcoal - Total energy supply
+Charcoal - Transformation
+Charcoal - Transformation in electricity, CHP and heat plants
+Charcoal - Transformation in electricity plants - autoproducers
+Charcoal - Transformation in electricity plants - main activity producers
+Coal Tar - Consumption by chemical and petrochemical
+Coal Tar - Consumption by construction 
+Coal Tar - Consumption by food and tobacco 
+Coal Tar - Consumption by iron and steel
+Coal Tar - Consumption by manufacturing, construction and non-fuel mining industry
+Coal Tar - Consumption by non-ferrous metals 
+Coal Tar - Consumption by non-metallic minerals 
+Coal Tar - Consumption by other manufacturing, construction and non-fuel mining industry
+Coal Tar - Consumption not elsewhere specified (industry)
+Coal Tar - Energy industries own use
+Coal Tar - Exports
+Coal Tar - Final consumption
+Coal Tar - Final energy consumption
+Coal Tar - Imports
+Coal Tar - Non-energy uses
+Coal Tar - Other transformation
+Coal Tar - Own use by blast furnaces
+Coal Tar - Own use by coke ovens
+Coal Tar - Own use by gas works
+Coal Tar - Own use by oil refineries
+Coal Tar - Production
+Coal Tar - Receipts from other sources
+Coal Tar - Stock changes
+Coal Tar - Total energy supply
+Coal Tar - Transformation
+Coal Tar - Transformation in blast furnaces
+Coal Tar - Transformation in CHP plants - autoproducers
+Coal Tar - Transformation in CHP plants - main activity producers
+Coal Tar - Transformation in coke ovens
+Coal Tar - Transformation in electricity, CHP and heat plants
+Coal Tar - Transformation in electricity plants - autoproducers
+Coal Tar - Transformation in heat plants - main activity producers
+Coke Oven Gas - Consumption by agriculture, forestry and fishing
+Coke Oven Gas - Consumption by chemical and petrochemical
+Coke Oven Gas - Consumption by commerce and public services
+Coke Oven Gas - Consumption by construction 
+Coke Oven Gas - Consumption by food and tobacco 
+Coke Oven Gas - Consumption by households
+Coke Oven Gas - Consumption by iron and steel
+Coke Oven Gas - Consumption by machinery 
+Coke Oven Gas - Consumption by manufacturing, construction and non-fuel industry
+Coke Oven Gas - Consumption by mining and quarrying 
+Coke Oven Gas - Consumption by non-ferrous metals 
+Coke Oven Gas - Consumption by non-metallic minerals 
+Coke Oven Gas - Consumption by other
+Coke Oven Gas - Consumption by other manuf., const. and non-fuel ind.
+Coke Oven Gas - Consumption by paper, pulp and print
+Coke Oven Gas - Consumption by textile and leather 
+Coke Oven Gas - Consumption by transport equipment 
+Coke Oven Gas - Consumption by wood and wood products 
+Coke Oven Gas - Consumption not elsewhere specified (industry)
+Coke Oven Gas - Consumption not elsewhere specified (other)
+Coke Oven Gas - Energy industries own use
+Coke Oven Gas - Final consumption
+Coke Oven Gas - Final energy consumption
+Coke Oven Gas - Losses
+Coke Oven Gas - Non-energy uses
+Coke Oven Gas - Other energy industry own use
+Coke Oven Gas - Other transformation
+Coke Oven Gas - Own use by blast furnaces
+Coke Oven Gas - Own use by coal mines
+Coke Oven Gas - Own use by coke ovens
+Coke Oven Gas - Own use by electricity, heat and CHP plants
+Coke Oven Gas - Own use by gas works
+Coke Oven Gas - Own use by oil refineries
+Coke Oven Gas - Production
+Coke Oven Gas - Receipts from other sources
+Coke Oven Gas - Stock changes
+Coke Oven Gas - Total energy supply
+Coke Oven Gas - Transformation
+Coke Oven Gas - Transformation in blast furnaces
+Coke Oven Gas - Transformation in CHP plants - autoproducers
+Coke Oven Gas - Transformation in CHP plants - main activity producers
+Coke Oven Gas - Transformation in coke ovens
+Coke Oven Gas - Transformation in electricity, CHP and heat plants
+Coke Oven Gas - Transformation in electricity plants - autoproducers
+Coke Oven Gas - Transformation in electricity plants - main activity producers
+Coke Oven Gas - Transformation in gas works
+Coke Oven Gas - Transformation in heat plants - autoproducers
+Coke Oven Gas - Transformation in heat plants - main activity producers
+Coke Oven Gas - Transformation in natural gas blending plants
+Coking coal - consumption by agriculture, forestry and fishing
+Coking coal - consumption by chemical and petrochemical industry
+Coking coal - consumption by commerce and public services
+Coking coal - consumption by construction
+Coking coal - consumption by domestic navigation
+Coking coal - consumption by food and tobacco
+Coking coal - consumption by households
+Coking coal - consumption by iron and steel
+Coking coal - consumption by machinery industry
+Coking coal - consumption by manufacturing, construction and non-fuel industry
+Coking coal - consumption by non-ferrous metals
+Coking coal - consumption by non-metallic minerals
+Coking coal - consumption by other
+Coking coal - consumption by other manuf., const. and non-fuel ind.
+Coking coal - consumption by rail
+Coking coal - consumption by textile and leather industry
+Coking coal - consumption by transport
+Coking coal - consumption by transport equipment industry
+Coking coal - consumption by wood and wood products industry
+Coking coal - consumption not elsewhere specified (industry)
+Coking coal - consumption not elsewhere specified (other)
+Coking coal - consumption not elsewhere specified (transport)
+Coking coal - energy industries own use
+Coking coal - exports
+Coking coal - final consumption
+Coking coal - final energy consumption
+Coking coal - imports
+Coking coal - losses
+Coking coal - non-energy use
+Coking coal - own use by coal mines
+Coking coal - own use by coke ovens
+Coking coal - production
+Coking coal - receipts from other sources
+Coking coal - stock changes
+Coking coal - total energy supply
+Coking coal - transformation
+Coking coal - transformation in autoproducer CHP plants
+Coking coal - transformation in autoproducer electricity plants
+Coking coal - transformation in autoproducer heat plants
+Coking coal - transformation in blast furnaces
+Coking coal - transformation in briquetting plants
+Coking coal - transformation in coke ovens
+Coking coal - transformation in electricity, CHP and heat plants
+Coking coal - transformation in gas works
+Coking coal - transformation in main activity producer CHP plants
+Coking coal - transformation in main activity producer electricity plants
+Coking coal - transformation in main activity producer heat plants
+Conventional crude oil - consumption by agriculture, forestry and fishing
+Conventional crude oil - consumption by commerce and public services
+Conventional crude oil - consumption by construction
+Conventional crude oil - consumption by food and tobacco
+Conventional crude oil - consumption by households
+Conventional crude oil - consumption by industries not elsewhere specified
+Conventional crude oil - consumption by iron and steel
+Conventional crude oil - consumption by machinery
+Conventional crude oil - consumption by mining and quarrying
+Conventional crude oil - consumption by non-ferrous metals
+Conventional crude oil - consumption by non-metallic minerals
+Conventional crude oil - consumption by other
+Conventional crude oil - consumption by other consumers not elsewhere specified
+Conventional crude oil - consumption by other transportation
+Conventional crude oil - consumption by paper, pulp and print
+Conventional crude oil - consumption by pipeline transport
+Conventional crude oil - consumption by textile and leather
+Conventional crude oil - consumption by transport
+Conventional crude oil - consumption by transport equipment
+Conventional crude oil - consumption by wood and wood products
+Conventional crude oil - energy industries own use
+Conventional crude oil - exports
+Conventional crude oil - final consumption
+Conventional crude oil - final energy consumption
+Conventional crude oil - imports
+Conventional crude oil -  losses
+Conventional crude oil - non-energy use
+Conventional crude oil - other energy industry own use
+Conventional crude oil - other transformation
+Conventional crude oil - own use by electricity, CHP and heat plants
+Conventional crude oil - own use by oil and gas extraction
+Conventional crude oil - own use by oil refineries
+Conventional crude oil - production
+Conventional crude oil - production from off-shore
+Conventional crude oil - stock changes
+Conventional crude oil - total energy supply
+Conventional crude oil - transfers and recycled products
+Conventional crude oil - transformation
+Conventional crude oil - transformation in CHP plants - autoproducers
+Conventional crude oil - transformation in CHP plants - main activity producers
+Conventional crude oil - transformation in electricity, CHP and heat plants
+Conventional crude oil - transformation in electricity plants - autoproducers
+Conventional crude oil - transformation in electricity plants - main activity producers
+Conventional crude oil - transformation in heat plants - autoproducers
+Conventional crude oil - transformation in oil refineries
+Crude petroleum - consumption by chemical and petrochemical
+Crude petroleum - consumption by manufacturing, construction and non-fuel mining industry
+Crude petroleum - consumption by other manufacturing, construction and non-fuel mining industry
+Crude petroleum - other reserves
+Crude petroleum - refinery capacity
+Crude petroleum - reserves
+Crude petroleum - reserves from oil shale
+Crude petroleum - reserves from oil shale and tar sands
+Crude petroleum - reserves from tar sands
+Direct use of geothermal heat - Consumption by agriculture, forestry and fishing
+Direct use of geothermal heat - Consumption by chemical and petrochemical
+Direct use of geothermal heat - Consumption by commerce and public services
+Direct use of geothermal heat - Consumption by construction
+Direct use of geothermal heat - Consumption by food and tobacco
+Direct use of geothermal heat - Consumption by households
+Direct use of geothermal heat - Consumption by iron and steel
+Direct use of geothermal heat - Consumption by machinery
+Direct use of geothermal heat - Consumption by manufacturing, construction and non-fuel mining industry
+Direct use of geothermal heat - Consumption by non-metallic minerals
+Direct use of geothermal heat - Consumption by other
+Direct use of geothermal heat - Consumption by other manuf., const. and non-fuel ind.
+Direct use of geothermal heat - Consumption by paper, pulp and print
+Direct use of geothermal heat - Consumption by textile and leather
+Direct use of geothermal heat - Consumption by transport equipment
+Direct use of geothermal heat - Consumption by wood and wood products
+Direct use of geothermal heat - Consumption not elsewhere specified (industry)
+Direct use of geothermal heat - Consumption not elsewhere specified (other)
+Direct use of geothermal heat - Final energy consumption
+Direct use of solar thermal heat - Consumption by agriculture, forestry and fishing
+Direct use of solar thermal heat - Consumption by chemical and petrochemical
+Direct use of solar thermal heat - Consumption by commerce and public services
+Direct use of solar thermal heat - Consumption by construction
+Direct use of solar thermal heat - Consumption by food and tobacco
+Direct use of solar thermal heat - Consumption by households
+Direct use of solar thermal heat - Consumption by machinery
+Direct use of solar thermal heat - Consumption by manufacturing, construction and non-fuel mining industry
+Direct use of solar thermal heat - Consumption by mining and quarrying
+Direct use of solar thermal heat - Consumption by non-ferrous metals
+Direct use of solar thermal heat - Consumption by non-metallic minerals
+Direct use of solar thermal heat - Consumption by other
+Direct use of solar thermal heat - Consumption by other manuf., const. and non-fuel ind.
+Direct use of solar thermal heat - Consumption by paper, pulp and print
+Direct use of solar thermal heat - Consumption by textile and leather
+Direct use of solar thermal heat - Consumption by transport equipment
+Direct use of solar thermal heat - Consumption not elsewhere specified (industry)
+Direct use of solar thermal heat - Consumption not elsewhere specified (other)
+Direct use of solar thermal heat - Final energy consumption
+Electricity generating capacity - From other sources - Autoproducers
+Electricity generating capacity - From other sources - Main activity producers
+Electricity generating capacity - From other sources - Total
+Electricity generating capacity - Pumped hydro - Autoproducers
+Electricity generating capacity - Pumped hydro - Main activity producers
+Electricity generating capacity - Pumped hydro - Total
+Electricity generating capacity - Solar PV - Autoproducers
+Electricity generating capacity - Solar PV - Main activity producers
+Electricity generating capacity - Solar PV - Total
+Electricity generating capacity - Solar Thermal - Autoproducers
+Electricity generating capacity - Solar Thermal - Main activity producers
+Electricity generating capacity - Solar Thermal - Total
+Electricity - net installed capacity of electric power plants, public combustible fuels
+Electricity - net installed capacity of electric power plants, public geothermal
+Electricity - net installed capacity of electric power plants, public hydro
+Electricity - net installed capacity of electric power plants, public nuclear
+Electricity - net installed capacity of electric power plants public solar
+Electricity - net installed capacity of electric power plants, public tide, wave, marine
+Electricity - net installed capacity of electric power plants, public wind
+Electricity - net installed capacity of electric power plants, self-producer combustible fuels
+Electricity - net installed capacity of electric power plants, self-producer geothermal
+Electricity - net installed capacity of electric power plants, self-producer hydro
+Electricity - net installed capacity of electric power plants, self-producer nuclear
+Electricity - net installed capacity of electric power plants, self-producer solar
+Electricity - net installed capacity of electric power plants, self-producer tide, wave, marine
+Electricity - net installed capacity of electric power plants, self-producer wind
+Electricity - total net installed capacity of electric power plants, autoproducer
+Electricity - total net installed capacity of electric power plants, combustible fuels
+Electricity - total net installed capacity of electric power plants, geothermal
+Electricity - total net installed capacity of electric power plants, hydro
+Electricity - total net installed capacity of electric power plants, main activity
+Electricity - total net installed capacity of electric power plants, main activity & autoproducer
+Electricity - total net installed capacity of electric power plants, nuclear
+Electricity - total net installed capacity of electric power plants, solar
+Electricity - total net installed capacity of electric power plants, tide, wave, marine
+Electricity - total net installed capacity of electric power plants, wind
+Ethane - Consumption by chemical and petrochemical
+Ethane - Consumption by industries not elsewhere specified
+Ethane - Consumption by manufacturing, construction and non-fuel mining industry
+Ethane - Consumption by other manufacturing, construction and non-fuel mining industry
+Ethane - Consumption for non-energy uses
+Ethane - Energy industries own use
+Ethane - Exports
+Ethane - Final consumption
+Ethane - Final energy consumption
+Ethane - Imports
+Ethane - Own use by oil and gas extraction
+Ethane - Own use by oil refineries
+Ethane - Production
+Ethane - Production from plants
+Ethane - Production from refineries
+Ethane - Receipts from other sources
+Ethane - Stock changes
+Ethane - Total energy supply
+Ethane - Transfers and recycled products
+Ethane - Transformation
+Ethane - Transformation in CHP plants - autoproducers
+Ethane - Transformation in electricity, CHP and heat plants
+Ethane - Transformation in petrochemical plants
+Falling water - total hydraulic resources
+Fuel oil - Consumption by chemical and petrochemical
+Fuel oil - Consumption by commerce and public services
+Fuel oil - Consumption by construction 
+Fuel oil - Consumption by domestic aviation
+Fuel oil - Consumption by domestic navigation
+Fuel oil - Consumption by food and tobacco 
+Fuel oil - Consumption by households
+Fuel oil - Consumption by iron and steel
+Fuel oil - Consumption by machinery 
+Fuel oil - Consumption by manufacturing, construction and non-fuel industry
+Fuel oil - Consumption by mining and quarrying 
+Fuel oil - Consumption by non-ferrous metals 
+Fuel oil - Consumption by non-metallic minerals 
+Fuel oil - Consumption by other
+Fuel oil - Consumption by other manuf., const. and non-fuel ind.
+Fuel oil - Consumption by paper, pulp and print
+Fuel oil - Consumption by pipeline transport
+Fuel oil - Consumption by textile and leather 
+Fuel oil - Consumption by transport
+Fuel oil - Consumption by transport equipment 
+Fuel oil - Consumption by wood and wood products 
+Fuel oil - Consumption in agriculture, forestry and fishing
+Fuel oil - Consumption in rail
+Fuel oil - Consumption in road
+Fuel oil - Consumption not elsewhere specified (industry)
+Fuel oil - Consumption not elsewhere specified (other)
+Fuel oil - Consumption not elsewhere specified (transport)
+Fuel oil - Energy industries own use
+Fuel oil - Exports
+Fuel oil - Final consumption
+Fuel oil - Final energy consumption
+Fuel oil - Imports
+Fuel oil - International marine bunkers
+Fuel oil - Losses
+Fuel oil - Non-energy uses
+Fuel oil - Other energy industry own use
+Fuel oil - Other transformation
+Fuel oil - Own use by coal mines
+Fuel oil - Own use by coke ovens
+Fuel oil - Own use by electricity, heat and CHP plants
+Fuel oil - Own use by gas works
+Fuel oil - Own use by oil and gas extraction
+Fuel oil - Own use by oil refineries
+Fuel oil - Production
+Fuel oil - production from plants
+Fuel oil - production from refineries
+Fuel oil - Receipts from other sources
+Fuel oil - Stock changes
+Fuel oil - Total energy supply
+Fuel oil - Transfers and recycled products
+Fuel oil - Transformation
+Fuel oil - Transformation in blast furnaces
+Fuel oil - Transformation in CHP plants - autoproducers
+Fuel oil - Transformation in CHP plants - main activity producers
+Fuel oil - Transformation in coke ovens
+Fuel oil - Transformation in electricity, CHP and heat plants
+Fuel oil - Transformation in electricity plants - autoproducers
+Fuel oil - Transformation in electricity plants - main activity producers
+Fuel oil - Transformation in gas works
+Fuel oil - Transformation in heat plants - autoproducers
+Fuel oil - Transformation in heat plants - main activity producers
+Fuel oil - Transformation in petrochemical plants
+Fuelwood - Consumption by chemical and petrochemical
+Fuelwood - Consumption by commerce and public services
+Fuelwood - Consumption by construction 
+Fuelwood - Consumption by food and tobacco 
+Fuelwood - Consumption by households
+Fuelwood - Consumption by iron and steel
+Fuelwood - Consumption by machinery 
+Fuelwood - Consumption by manufacturing, construction and non-fuel industry
+Fuelwood - Consumption by mining and quarrying 
+Fuelwood - Consumption by non-ferrous metals 
+Fuelwood - Consumption by non-metallic minerals 
+Fuelwood - Consumption by other
+Fuelwood - Consumption by other manuf., const. and non-fuel ind.
+Fuelwood - Consumption by paper, pulp and print
+Fuelwood - Consumption by textile and leather 
+Fuelwood - Consumption by transport
+Fuelwood - Consumption by transport equipment 
+Fuelwood - Consumption by wood and wood products 
+Fuelwood - Consumption in agriculture, forestry and fishing
+Fuelwood - Consumption not elsewhere specified (industry)
+Fuelwood - Consumption not elsewhere specified (other)
+Fuelwood - Consumption not elsewhere specified (transport)
+Fuelwood - Energy industries own use
+Fuelwood - Exports
+Fuelwood - Final consumption
+Fuelwood - Final energy consumption
+Fuelwood - Imports
+Fuelwood - Non-energy uses
+Fuelwood - Other energy industry own use
+Fuelwood - Other transformation
+Fuelwood - Own use by briquetting plants
+Fuelwood - Own use by charcoal plants
+Fuelwood - Own use by electricity, heat and CHP plants
+Fuelwood - Own use by oil refineries
+Fuelwood - Production
+Fuelwood - Stock changes
+Fuelwood - Total energy supply
+Fuelwood - Transformation
+Fuelwood - Transformation in charcoal plants
+Fuelwood - Transformation in CHP plants - autoproducers
+Fuelwood - Transformation in CHP plants - main activity producers
+Fuelwood - Transformation in electricity, CHP and heat plants
+Fuelwood - Transformation in electricity plants - autoproducers
+Fuelwood - Transformation in electricity plants - main activity producers
+Fuelwood - Transformation in heat plants - autoproducers
+Fuelwood - Transformation in heat plants - main activity producers
+Gas Coke - Consumption by commerce and public services
+Gas coke - Consumption by households
+Gas Coke - Consumption by iron and steel
+Gas Coke - Consumption by manufacturing, construction and non-fuel industry
+Gas coke - Consumption by other
+Gas Coke - Consumption by other manuf., const. and non-fuel ind.
+Gas Coke - Consumption not elsewhere specified (industry)
+Gas coke - Energy industries own use
+Gas coke - exports
+Gas coke - final consumption
+Gas Coke - Final energy consumption
+Gas coke - imports
+Gas coke - Own use by gas works
+Gas coke - production
+Gas coke - stock changes
+Gas coke - Total energy supply
+Gas coke - Transformation
+Gas coke - transformation in gas works
+Gas Oil/ Diesel Oil - Consumption by chemical and petrochemical
+Gas Oil/ Diesel Oil - Consumption by commerce and public services
+Gas Oil/ Diesel Oil - Consumption by construction 
+Gas Oil/ Diesel Oil - Consumption by domestic aviation
+Gas Oil/ Diesel Oil - Consumption by food and tobacco 
+Gas Oil/ Diesel Oil - Consumption by households
+Gas Oil/ Diesel Oil - Consumption by iron and steel
+Gas Oil/ Diesel Oil - Consumption by machinery 
+Gas Oil/ Diesel Oil - Consumption by manufacturing, construction and non-fuel mining industry
+Gas Oil/ Diesel Oil - Consumption by mining and quarrying 
+Gas Oil/ Diesel Oil - Consumption by non-ferrous metals 
+Gas Oil/ Diesel Oil - Consumption by non-metallic minerals 
+Gas Oil/ Diesel Oil - Consumption by other
+Gas Oil/ Diesel Oil - Consumption by other manuf., const. and non-fuel min. ind.
+Gas Oil/ Diesel Oil - Consumption by paper, pulp and print
+Gas Oil/ Diesel Oil - Consumption by pipeline transport
+Gas Oil/ Diesel Oil - Consumption by textile and leather 
+Gas Oil/ Diesel Oil - Consumption by transport
+Gas Oil/ Diesel Oil - Consumption by transport equipment 
+Gas Oil/ Diesel Oil - Consumption by wood and wood products 
+Gas Oil/ Diesel Oil - Consumption in agriculture, forestry and fishing
+Gas Oil/ Diesel Oil - Consumption in domestic navigation
+Gas Oil/ Diesel Oil - Consumption in rail
+Gas Oil/ Diesel Oil - Consumption in road
+Gas Oil/ Diesel Oil - Consumption not elsewhere specified (industry)
+Gas Oil/ Diesel Oil - Consumption not elsewhere specified (other)
+Gas Oil/ Diesel Oil - Consumption not elsewhere specified (transport)
+Gas Oil/ Diesel Oil - Energy industries own use
+Gas Oil/ Diesel Oil - Exports
+Gas Oil/ Diesel Oil - Final consumption
+Gas Oil/ Diesel Oil - Final energy consumption
+Gas Oil/ Diesel Oil - Imports
+Gas Oil/ Diesel Oil - International marine bunkers
+Gas Oil/ Diesel Oil - Losses
+Gas Oil/ Diesel Oil - Non-energy uses
+Gas Oil/ Diesel Oil  - Other energy industry own use
+Gas Oil/ Diesel Oil - Other transformation
+Gas Oil/ Diesel Oil - Own use by blast furnaces
+Gas Oil/ Diesel Oil - Own use by coal mines
+Gas Oil/ Diesel Oil - Own use by coke ovens
+Gas Oil/ Diesel Oil - Own use by electricity, heat and CHP plants
+Gas Oil/ Diesel Oil - Own use by gas works
+Gas Oil/ Diesel Oil - Own use by oil and gas extraction
+Gas Oil/ Diesel Oil - Own use by oil refineries
+Gas Oil/ Diesel Oil - Production
+Gas Oil/ Diesel Oil - production from plants
+Gas Oil/ Diesel Oil - production from refineries
+Gas Oil/ Diesel Oil - Receipts from other sources
+Gas Oil/ Diesel Oil - Stock changes
+Gas Oil/ Diesel Oil - Total energy supply
+Gas Oil/ Diesel Oil - Transfers and recycled products
+Gas Oil/ Diesel Oil - Transformatin in gas works
+Gas Oil/ Diesel Oil - Transformation
+Gas Oil/ Diesel Oil - Transformation in CHP plants - autoproducers
+Gas Oil/ Diesel Oil - Transformation in CHP plants - main activity producers
+Gas Oil/ Diesel Oil - Transformation in coke ovens
+Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants
+Gas Oil/ Diesel Oil - Transformation in electricity plants - autoproducers
+Gas Oil/ Diesel Oil - Transformation in electricity plants - main activity producers
+Gas Oil/ Diesel Oil - Transformation in heat plants - autoproducers
+Gas Oil/ Diesel Oil - Transformation in heat plants - main activity producers
+Gas Oil/ Diesel Oil - Transformation in petrochemical plants
+Gasoline-type jet fuel - Consumption by domestic aviation
+Gasoline-type jet fuel - Consumption in transport
+Gasoline-type jet fuel - Energy industries own use
+Gasoline-type jet fuel - Exports
+Gasoline-type jet fuel - Final consumption
+Gasoline-type jet fuel - Final energy consumption
+Gasoline-type jet fuel - Imports
+Gasoline-type jet fuel - International aviation bunkers
+Gasoline-type jet fuel - Own use by oil refineries
+Gasoline-type jet fuel - Production
+Gasoline-type jet fuel - Production from refineries
+Gasoline-type jet fuel - Stock changes
+Gasoline-type jet fuel - Total energy supply
+Gasoline-type jet fuel - Transfers and recycled products
+Gasworks Gas - Consumption by chemical and petrochemical
+Gasworks Gas - Consumption by commerce and public services
+Gasworks Gas - Consumption by construction 
+Gasworks Gas - Consumption by food and tobacco 
+Gasworks Gas - Consumption by households
+Gasworks Gas - Consumption by iron and steel
+Gasworks Gas - Consumption by machinery 
+Gasworks Gas - Consumption by manufacturing, construction and non-fuel industry
+Gasworks Gas - Consumption by mining and quarrying 
+Gasworks Gas - Consumption by non-ferrous metals 
+Gasworks Gas - Consumption by non-metallic minerals 
+Gasworks Gas - Consumption by other
+Gasworks Gas - Consumption by other manuf., const. and non-fuel ind.
+Gasworks Gas - Consumption by paper, pulp and print
+Gasworks Gas - Consumption by textile and leather 
+Gasworks Gas - Consumption by transport
+Gasworks Gas - Consumption by transport equipment 
+Gasworks Gas - Consumption by wood and wood products 
+Gasworks Gas - Consumption in agriculture, forestry and fishing
+Gasworks Gas - Consumption in rail
+Gasworks Gas - Consumption not elsewhere specified (industry)
+Gasworks Gas - Consumption not elsewhere specified (other)
+Gasworks Gas - Energy industries own use
+Gasworks Gas - Exports
+Gasworks Gas - Final consumption
+Gasworks Gas - Final energy consumption
+Gasworks Gas - Imports
+Gasworks Gas - Losses
+Gasworks Gas - Other energy industry own use
+Gasworks Gas - Other transformation
+Gasworks Gas - Own use by coal mines
+Gasworks Gas - Own use by electricity, heat and CHP plants
+Gasworks Gas - Own use by gas works
+Gasworks Gas - Own use by oil refineries
+Gasworks Gas - Production
+Gasworks Gas - Receipts from other sources
+Gasworks Gas - Stock changes
+Gasworks Gas - Total energy supply
+Gasworks Gas - Transformation
+Gasworks Gas - Transformation in CHP plants - autoproducers
+Gasworks Gas - Transformation in CHP plants - main activity producers
+Gasworks Gas - Transformation in electricity, CHP and heat plants
+Gasworks Gas - Transformation in electricity plants - autoproducers
+Gasworks Gas - Transformation in electricity plants - main activity producers
+Gasworks Gas - Transformation in gas works
+Gasworks Gas - Transformation in heat plants - autoproducers
+Gasworks Gas - Transformation in heat plants - main activity producers
+Gasworks Gas - Transformation in natural gas blending plants
+Electricity - total geothermal production
+Coal - additional resources
+Coal - recoverable reserves
+Coal - total known reserves
+Coal - total resources in place
+Hard coal - consumption by chemical and petrochemical industry
+Hard coal - consumption by commerce and public services
+Hard coal - consumption by construction industry
+Hard coal - consumption by food and tobacco industry
+Hard coal - consumption by households
+Hard coal - consumption by machinery industry
+Hard coal - consumption by manufacturing, construction and non-fuel mining industry
+Hard coal - consumption by mining and quarrying industry
+Hard coal - consumption by non-ferrous metals industry
+Hard coal - consumption by non-metallic minerals industry
+Hard coal - consumption by other
+Hard coal - consumption by other consumers
+Hard coal - consumption by other manuf., const. and non-fuel ind.
+Hard coal - consumption by other transport
+Hard coal - consumption by paper, pulp and print
+Hard coal - consumption by rail
+Hard coal - consumption by textile and leather industry
+Hard coal - consumption by transport
+Hard coal - consumption by transport equipment industry
+Hard coal - consumption by wood and wood products industry
+Hard coal - consumption for non-energy uses
+Hard coal - consumption in agriculture, forestry and fishing
+Hard coal - consumption in domestic navigation
+Hard coal - consumption not elsewhere specified (industry)
+Hard coal - energy industries own use
+Hard coal - exports
+Hard coal - final consumption
+Hard coal - final energy consumption
+Hard coal - imports
+Hard coal - international marine bunkers
+Hard coal - losses
+Hard coal - other transformation
+Hard coal - own use by blast furnaces
+Hard coal - own use by briquetting plants
+Hard coal - own use by coal liquefaction plants
+Hard coal - own use by coal mines
+Hard coal - own use by coke ovens
+Hard coal - own use by electricity, CHP and heat plants
+Hard coal - own use by gas works
+Hard coal - own use by oil refineries
+Hard coal - Own use by other energy producers
+Hard coal - production
+Hard coal - receipts from other sources
+Hard coal - stock changes
+Hard coal - total energy supply
+Hard coal - transformation
+Hard coal - transformation in blast furnaces
+Hard coal - transformation in briquetting plants
+Hard coal - transformation in CHP plants - autoproducers
+Hard coal - transformation in CHP plants - main activity producers
+Hard coal - transformation in coal liquefaction plants
+Hard coal - transformation in coke ovens
+Hard coal - transformation in electricity, CHP and heat plants
+Hard coal - transformation in electricity plants - autoproducers
+Hard coal - transformation in electricity plants - main activity producers
+Hard coal - transformation in gas works
+Hard coal - transformation in heat plants - autoproducers
+Hard coal - transformation in heat plants - main activity producers
+Hrad coal - consumption by iron and steel industry
+From chemical sources – Autoproducer
+From chemical sources – Autoproducer – CHP plants
+From chemical sources – Autoproducer – Heat plants
+From combustible fuels – Autoproducer
+From combustible fuels – Autoproducer – CHP plants
+From combustible fuels – Autoproducer – Heat plants
+From combustible fuels – Main activity
+From combustible fuels – Main activity – CHP plants
+From combustible fuels – Main activity – Heat plants
+From electric boilers – Main activity
+From heat pumps – Main activity
+From other sources – Autoproducer
+From other sources – Autoproducer – CHP plants
+From other sources – Autoproducer – Heat plants
+From other sources – Main activity
+From other sources – Main activity – CHP plants
+From other sources – Main activity – Heat plants
+Geothermal – Autoproducer
+Geothermal – Autoproducer – CHP plants
+Geothermal – Autoproducer – Heat plants
+Geothermal – Main activity
+Geothermal – Main activity – CHP plants
+Geothermal – Main activity – Heat plants
+Heat - Consumption by agriculture, forestry and fishing
+Heat - Consumption by chemical and petrochemical
+Heat - Consumption by commerce and public services
+Heat - Consumption by construction
+Heat - Consumption by food and tobacco
+Heat - Consumption by households
+Heat - Consumption by iron and steel
+Heat - Consumption by LNG/regasification plants
+Heat - Consumption by machinery
+Heat - Consumption by manufacturing, construction and non-fuel industry
+Heat - Consumption by mining and quarrying
+Heat - Consumption by non-ferrous metals
+Heat - Consumption by non-metallic minerals
+Heat - Consumption by other
+Heat - Consumption by other manuf., const. and non-fuel ind.
+Heat - Consumption by paper, pulp and print
+Heat - Consumption by textile and leather
+Heat - Consumption by transport
+Heat - Consumption by transport equipment
+Heat - Consumption by wood and wood products
+Heat - Consumption not elsewhere specified (industry)
+Heat - Consumption not elsewhere specified (other)
+Heat - Consumption not elsewhere specified (transport)
+Heat - Energy industries own use
+Heat - Exports
+Heat - Final energy consumption
+Heat - Gross demand
+Heat - Gross production
+Heat - Imports
+Heat - Losses
+Heat - Net production
+Heat - Other energy industry own use
+Heat - Own use by biogas production plants
+Heat - Own use by blast furnaces
+Heat - Own use by briquetting plants
+Heat - Own use by coal liquefaction plants
+Heat - Own use by coal mines
+Heat - Own use by coke ovens
+Heat - Own use by electricity, CHP and heat plants
+Heat - Own use by gas works
+Heat - Own use by nuclear fuel extraction and processing
+Heat - Own use by oil and gas extraction
+Heat - Own use by oil refineries
+Heat production - Autoproducer total
+Heat production - Main activity total
+Heat - Used for electricity production
+Nuclear – Main activity
+Nuclear – Main activity – CHP plants
+Solar thermal – Autoproducer
+Solar thermal – Main activity
+Electricity - total hydro production
+Industrial Waste - Consumption by agriculture, forestry and fishing
+Industrial Waste - Consumption by chemical and petrochemical
+Industrial Waste - Consumption by commerce and public services
+Industrial Waste - Consumption by construction 
+Industrial Waste - Consumption by food and tobacco 
+Industrial Waste - Consumption by households
+Industrial waste - Consumption by iron and steel
+Industrial Waste - Consumption by machinery 
+Industrial Waste - Consumption by manufacturing, construction and non-fuel industry
+Industrial Waste - Consumption by mining and quarrying 
+Industrial Waste - Consumption by non-ferrous metals 
+Industrial Waste - Consumption by non-metallic minerals 
+Industrial Waste - Consumption by other
+Industrial Waste - Consumption by other manuf., const. and non-fuel ind.
+Industrial Waste - Consumption by paper, pulp and print
+Industrial Waste - Consumption by textile and leather 
+Industrial Waste - Consumption by transport equipment 
+Industrial Waste - Consumption by wood and wood products 
+Industrial Waste - Consumption not elsewhere specified (industry)
+Industrial Waste - Consumption not elsewhere specified (other)
+Industrial Waste - Energy industries own use
+Industrial Waste - Exports
+Industrial waste - Final consumption
+Industrial Waste - Final energy consumption
+Industrial Waste - Imports
+Industrial Waste - Losses
+Industrial Waste - Other energy industry own use
+Industrial Waste - Other transformation
+Industrial Waste - Own use by coal mines
+Industrial Waste - Own use by coke ovens
+Industrial Waste - Own use by electricity, heat and CHP plants
+Industrial Waste - Own use by oil refineries
+Industrial Waste - Production
+Industrial Waste - Stock changes
+Industrial waste - Total energy supply
+Industrial Waste - Transformation
+Industrial Waste - Transformation in CHP plants - autoproducers
+Industrial Waste - Transformation in CHP plants - main activity producers
+Industrial Waste - Transformation in coke ovens
+Industrial waste - Transformation in electricity, CHP and heat plants
+Industrial Waste - Transformation in electricity plants - autoproducers
+Industrial Waste - Transformation in electricity plants - main activity producers
+Industrial Waste - Transformation in heat plants - autoproducers
+Industrial Waste - Transformation in heat plants - main activity producers
+Kerosene-type Jet Fuel - Consumption by chemical and petrochemical
+Kerosene-type Jet Fuel - Consumption by commerce and public services
+Kerosene-type Jet Fuel - Consumption by construction 
+Kerosene-type Jet Fuel - Consumption by domestic aviation
+Kerosene-type Jet Fuel - Consumption by food and tobacco 
+Kerosene-type Jet Fuel - Consumption by machinery 
+Kerosene-type Jet Fuel - Consumption by manufacturing, construction and non-fuel mining industry
+Kerosene-type Jet Fuel - Consumption by mining and quarrying 
+Kerosene-type Jet Fuel - Consumption by other
+Kerosene-type Jet Fuel - Consumption by other manuf., const. and non-fuel min. ind.
+Kerosene-type Jet Fuel - Consumption by road
+Kerosene-type Jet Fuel - Consumption by textile and leather 
+Kerosene-type Jet Fuel - Consumption by transport
+Kerosene-type Jet Fuel - Consumption by transport equipment 
+Kerosene-type Jet Fuel - Consumption not elsewhere specified (industry)
+Kerosene-type Jet Fuel - Consumption not elsewhere specified (other)
+Kerosene-type Jet Fuel - Consumption not elsewhere specified (transport)
+Kerosene-type Jet Fuel - Energy industries own use
+Kerosene-type Jet Fuel - Exports
+Kerosene-type Jet Fuel - Final consumption
+Kerosene-type Jet Fuel - Final energy consumption
+Kerosene-type Jet Fuel - Imports
+Kerosene-type Jet Fuel - International aviation bunkers
+Kerosene-type Jet Fuel - International marine bunkers
+Kerosene-type Jet Fuel - Losses
+Kerosene-type Jet Fuel - Other energy industry own use
+Kerosene-type Jet Fuel - Own use by electricity, heat and CHP plants
+Kerosene-type Jet Fuel - Own use by oil and gas extraction
+Kerosene-type Jet Fuel - Own use by oil refineries
+Kerosene-type Jet Fuel - Production
+Kerosene-type Jet Fuel - production from refineries
+Kerosene-type Jet Fuel - Stock changes
+Kerosene-type Jet Fuel - Total energy supply
+Kerosene-type Jet Fuel - Transfers and recycled products
+Kerosene-type Jet Fuel - Transformation
+Kerosene-type Jet Fuel - Transformation in CHP plants - autoproducers
+Kerosene-type Jet Fuel - Transformation in CHP plants - main activity producers
+Kerosene-type Jet Fuel - Transformation in electricity, CHP and heat plants
+Kerosene-type Jet Fuel - Transformation in electricity plants - main activity producers
+Kerosene-type Jet Fuel - Transformation in petrochemical plants
+Lignite - Consumption by agriculture, forestry and fishing
+Lignite - Consumption by chemical and petrochemical industry
+Lignite - Consumption by commerce and public services
+Lignite - Consumption by construction
+Lignite - Consumption by domestic navigation
+Lignite - Consumption by food and tobacco industry
+Lignite - Consumption by households
+Lignite - Consumption by iron and steel industry
+Lignite - Consumption by machinery industry
+Lignite - Consumption by manufacturing, construction and non-fuel industry
+Lignite - Consumption by mining and quarrying industry
+Lignite - Consumption by non-ferrous metals industry
+Lignite - Consumption by non-metallic minerals industry
+Lignite - Consumption by other
+Lignite - Consumption by other manuf., const. and non-fuel ind.
+Lignite - Consumption by paper, pulp and print
+Lignite - Consumption by rail
+Lignite - Consumption by textile and leather
+Lignite - Consumption by transport equipment industry
+Lignite - Consumption by wood and wood products industry
+Lignite - Consumption in transport
+Lignite - Consumption not elsewhere specified (industry)
+Lignite - Consumption not elsewhere specified (other)
+Lignite - Consumption not elsewhere specified (transport)
+Lignite - Energy industries own use
+Lignite - Exports
+Lignite - Final consumption
+Lignite - Final energy consumption
+Lignite - Imports
+Lignite - Losses
+Lignite - Non-energy use
+Lignite - Other energy industry own use
+Lignite - Own use by briquetting plants
+Lignite - Own use by coal mines
+Lignite - Own use by electricity, CHP and heat plants
+Lignite - Own use by oil refineries
+Lignite - Production
+Lignite - Receipts from other sources
+Lignite - Stock changes
+Lignite - Total energy supply
+Lignite - Transformation
+Lignite - Transformation in autoproducer CHP plants
+Lignite - Transformation in autoproducer electricity plants
+Lignite - Transformation in autoproducer heat plants
+Lignite - Transformation in briquetting plants
+Lignite - Transformation in coke ovens
+Lignite - Transformation in electricity, CHP and heat plants
+Lignite - Transformation in gas works
+Lignite - Transformation in main activity CHP plants
+Lignite - Transformation in main activity electricity plants
+Lignite - Transformation in main activity heat plants
+Liquefied petroleum gas (LPG) - consumption by chemical and petrochemical
+Liquefied petroleum gas (LPG) - Consumption by domestic aviation
+Liquefied petroleum gas (LPG) - Consumption by domestic navigation
+Liquefied petroleum gas (LPG) - Consumption by households
+Liquefied petroleum gas (LPG) - consumption by iron and steel industry
+Liquefied petroleum gas (LPG) - consumption by manufacturing, construction and non-fuel mining industry
+Liquefied petroleum gas (LPG) - Consumption by other
+Liquefied petroleum gas (LPG) - Consumption by other consumers not elsewhere specified
+Liquefied petroleum gas (LPG) - consumption by other manuf., const. and non-fuel min. ind.
+Liquefied petroleum gas (LPG) - Consumption by transport
+Liquefied petroleum gas (LPG) - Consumption in agriculture, forestry and fishing
+Liquefied petroleum gas (LPG) - Consumption in rail
+Liquefied petroleum gas (LPG) - Consumption in road
+Liquefied petroleum gas (LPG) - Consumption not elsewhere specified (transport)
+Liquefied petroleum gas (LPG) - Energy industries own use
+Liquefied petroleum gas (LPG) - Exports
+Liquefied petroleum gas (LPG) - Final consumption
+Liquefied petroleum gas (LPG) - Imports
+Liquefied petroleum gas (LPG) - Losses
+Liquefied petroleum gas (LPG) - Non-energy uses
+Liquefied petroleum gas (LPG) - Other energy industry own use
+Liquefied petroleum gas (LPG) - Own use by blast furnaces
+Liquefied petroleum gas (LPG) - Own use by coal mines
+Liquefied petroleum gas (LPG) - Own use by coke ovens
+Liquefied petroleum gas (LPG) - Own use by electricity, heat and CHP plants
+Liquefied petroleum gas (LPG) - Own use by gas works
+Liquefied petroleum gas (LPG) - Own use by oil and gas extraction
+Liquefied petroleum gas (LPG) - Own use by oil refineries
+Liquefied petroleum gas (LPG) - Production
+Liquefied petroleum gas (LPG) - production from plants
+Liquefied petroleum gas (LPG) - production from refineries
+Liquefied petroleum gas (LPG) - Stock changes
+Liquefied petroleum gas (LPG) - Total energy supply
+Liquefied petroleum gas (LPG) - Transfers and recycled products
+Liquefied petroleum gas (LPG) - Transformation
+Liquefied petroleum gas (LPG) - Transformation in electricity, CHP and heat plants
+Liquefied petroleum gas (LPG) - Transformation in gas works
+Liquefied petroleum gas (LPG) - Transformation in natural gas blending plants
+Liquefied petroleum gas (LPG) - Transformation in other energy-producing plants
+Liquified Petroleum Gas (LPG) - Consumption by commerce and public services
+Liquified Petroleum Gas (LPG) - Consumption by construction
+Liquified Petroleum Gas (LPG) - Consumption by food and tobacco
+Liquified Petroleum Gas (LPG) - Consumption by industries not elsewhere specified
+Liquified Petroleum Gas (LPG) - Consumption by machinery
+Liquified Petroleum Gas (LPG) - Consumption by mining and quarrying
+Liquified Petroleum Gas (LPG) - Consumption by non-ferrous metals
+Liquified Petroleum Gas (LPG) - Consumption by non-metallic minerals
+Liquified Petroleum Gas (LPG) - Consumption by paper, pulp and print
+Liquified Petroleum Gas (LPG) - Consumption by pipeline transport
+Liquified Petroleum Gas (LPG) - Consumption by textile and leather
+Liquified Petroleum Gas (LPG) - Consumption by transport equipment
+Liquified Petroleum Gas (LPG) - Consumption by wood and wood products
+Liquified Petroleum Gas (LPG) - Final energy consumption
+Liquified Petroleum Gas (LPG) - Receipts from other sources
+Liquified Petroleum Gas (LPG) - Transformation in CHP plants - autoproducers
+Liquified Petroleum Gas (LPG) - Transformation in CHP plants - main activity producers
+Liquified Petroleum Gas (LPG) - Transformation in electricity plants - autoproducers
+Liquified Petroleum Gas (LPG) - Transformation in electricity plants - main activity producers
+Liquified Petroleum Gas (LPG) - Transformation in heat plants - autoproducers
+Liquified Petroleum Gas (LPG) - Transformation in heat plants - main activity producers
+Liquified Petroleum Gas (LPG) - Transformation in petrochemical plants
+Lubricants - Consumption by agriculture, forestry and fishing
+Lubricants - Consumption by construction 
+Lubricants - Consumption by domestic navigation
+Lubricants - Consumption by food and tobacco 
+Lubricants - Consumption by industries not elsewhere specified
+Lubricants - Consumption by machinery 
+Lubricants - consumption by manufacturing, construction and non-fuel mining industry
+Lubricants - Consumption by mining and quarrying 
+Lubricants - Consumption by non-ferrous metals 
+Lubricants - Consumption by non-metallic minerals 
+Lubricants - Consumption by other
+Lubricants - Consumption by other consumers not elsewhere specified
+Lubricants - Consumption by other manuf., const. and non-fuel min. ind.
+Lubricants - Consumption by paper, pulp and print
+Lubricants - Consumption by rail
+Lubricants - Consumption by textile and leather 
+Lubricants - Consumption by transport
+Lubricants - Consumption by transport equipment 
+Lubricants - Consumption by wood and wood products 
+Lubricants - Consumption in road
+Lubricants - Energy industries own use
+Lubricants - Exports
+Lubricants - Final consumption
+Lubricants - Final energy consumption
+Lubricants - Imports
+Lubricants - International marine bunkers
+Lubricants - Losses
+Lubricants - Non-energy uses
+Lubricants - Other energy industry own use
+Lubricants - Other transformation
+Lubricants - Own use by electricity, heat and CHP plants
+Lubricants - Own use by oil refineries
+Lubricants - Own use in coal mines
+Lubricants - Own use in coke ovens
+Lubricants - Production
+Lubricants - production from refineries
+Lubricants - Receipts from other sources
+Lubricants - Stock changes
+Lubricants - Total energy supply
+Lubricants - Transfers and recycled products
+Lubricants - Transformation
+Lubricants - Transformation in petrochemical plants
+Motor Gasoline - Consumption by chemical and petrochemical
+Motor Gasoline - Consumption by commerce and public services
+Motor Gasoline - Consumption by construction 
+Motor Gasoline - Consumption by domestic aviation
+Motor Gasoline - Consumption by domestic navigation
+Motor Gasoline - Consumption by food and tobacco 
+Motor Gasoline - Consumption by households
+Motor Gasoline - Consumption by industries not elsewhere specified
+Motor Gasoline - Consumption by iron and steel
+Motor Gasoline - Consumption by machinery 
+Motor Gasoline - Consumption by manufacturing, construction and non-fuel mining industry
+Motor Gasoline - Consumption by mining and quarrying 
+Motor Gasoline - Consumption by non-ferrous metals 
+Motor Gasoline - Consumption by non-metallic minerals 
+Motor Gasoline - Consumption by other
+Motor Gasoline - Consumption by other consumers
+Motor Gasoline - Consumption by other manuf., const. and non-fuel min. ind.
+Motor Gasoline - Consumption by other transportation
+Motor Gasoline - Consumption by paper, pulp and print
+Motor Gasoline - Consumption by pipeline transport
+Motor Gasoline - Consumption by rail
+Motor Gasoline - Consumption by textile and leather 
+Motor Gasoline - Consumption by transport
+Motor Gasoline - Consumption by transport equipment 
+Motor Gasoline - Consumption by wood and wood products 
+Motor Gasoline - Consumption in agriculture, forestry and fishing
+Motor Gasoline - Consumption in road
+Motor Gasoline - Energy industries own use
+Motor Gasoline - Exports
+Motor Gasoline - Final consumption
+Motor Gasoline - Final energy consumption
+Motor Gasoline - Imports
+Motor Gasoline - International marine bunkers
+Motor Gasoline - Losses
+Motor Gasoline - Non-energy uses
+Motor Gasoline - Other energy industry own use
+Motor Gasoline - Other transformation
+Motor Gasoline - Own use by coal mines
+Motor Gasoline - Own use by electricity, heat and CHP plants
+Motor Gasoline - Own use by gas works
+Motor Gasoline - Own use by oil and gas extraction
+Motor Gasoline - Own use by oil refineries
+Motor Gasoline - Production
+Motor Gasoline - production from plants
+Motor Gasoline - production from refineries
+Motor Gasoline - Receipts from other sources
+Motor Gasoline - Stock changes
+Motor Gasoline - Total energy supply
+Motor Gasoline - Transfers and recycled products
+Motor Gasoline - Transformation
+Motor gasoline - Transformation in electricity, CHP and heat plants
+Motor Gasoline - Transformation in electricity plants - autoproducers
+Motor Gasoline - Transformation in electricity plants - main activity producers
+Motor Gasoline - Transformation in petrochemical plants
+Municipal Waste - Losses
+Municipal Wastes - Consumption by agriculture, forestry and fishing
+Municipal Wastes - Consumption by chemical and petrochemical
+Municipal Wastes - Consumption by commerce and public services
+Municipal Wastes - Consumption by construction 
+Municipal Wastes - Consumption by food and tobacco 
+Municipal Wastes - Consumption by households
+Municipal Wastes - Consumption by iron and steel
+Municipal Wastes - Consumption by machinery 
+Municipal Wastes - Consumption by manufacturing, construction and non-fuel industry
+Municipal Wastes - Consumption by mining and quarrying 
+Municipal Wastes - Consumption by non-ferrous metals 
+Municipal Wastes - Consumption by non-metallic minerals 
+Municipal Wastes - Consumption by other
+Municipal Wastes - Consumption by other manuf., const. and non-fuel ind.
+Municipal Wastes - Consumption by paper, pulp and print
+Municipal Wastes - Consumption by textile and leather 
+Municipal Wastes - Consumption by transport equipment 
+Municipal Wastes - Consumption by wood and wood products 
+Municipal Wastes - Consumption not elsewhere specified (industry)
+Municipal wastes - consumption not elsewhere specified (other)
+Municipal Wastes - Energy industries own use
+Municipal Wastes - Exports
+Municipal wastes - final consumption
+Municipal Wastes - Final energy consumption
+Municipal Wastes - Imports
+Municipal Wastes - Other energy industry own use
+Municipal Wastes - Other transformation
+Municipal Wastes - Own use by electricity, heat and CHP plants
+Municipal Wastes - Production
+Municipal Wastes - Stock changes
+Municipal wastes - Total energy supply
+Municipal Wastes - Transformation
+Municipal Wastes - Transformation in CHP plants - autoproducers
+Municipal Wastes - Transformation in CHP plants - main activity producers
+Municipal Wastes - Transformation in electricity, CHP and heat plants
+Municipal Wastes - Transformation in electricity plants - autoproducers
+Municipal Wastes - Transformation in electricity plants - main activity producers
+Municipal Wastes - Transformation in heat plants - autoproducers
+Municipal Wastes - Transformation in heat plants - main activity producers
+Naphtha - Consumption by chemical and petrochemical
+Naphtha - Consumption by commerce and public services
+Naphtha - Consumption by food and tobacco 
+Naphtha - Consumption by households
+Naphtha - Consumption by industries not elsewhere specified
+Naphtha - Consumption by iron and steel industry
+Naphtha - Consumption by manufacturing, construction and non-fuel mining industry
+Naphtha - Consumption by mining and quarrying 
+Naphtha - Consumption by non-ferrous metals 
+Naphtha - Consumption by non-metallic minerals 
+Naphtha - Consumption by other
+Naphtha - Consumption by other consumers not elsewhere specified
+Naphtha - Consumption by other manufacturing, construction and non-fuel
+Naphtha - Consumption by road
+Naphtha - Consumption by textile and leather 
+Naphtha - Consumption by transport
+Naphtha - Energy industries own use
+Naphtha - Exports
+Naphtha - Final consumption
+Naphtha - Final energy consumption
+Naphtha - Imports
+Naphtha - losses
+Naphtha - Non-energy uses
+Naphtha - Other transformation
+Naphtha - Own use by coke ovens
+Naphtha - Own use by oil and gas extraction
+Naphtha - Own use by oil refineries
+Naphtha - Production
+Naphtha - production from plants
+Naphtha - production from refineries
+Naphtha - Receipts from other sources
+Naphtha - Stock changes
+Naphtha - Total energy supply
+Naphtha - Transfers and recycled products
+Naphtha - Transformation
+Naphtha - Transformation in CHP plants - autoproducers
+Naphtha - Transformation in CHP plants - main activity producers
+Naphtha - Transformation in electricity, CHP and heat plants
+Naphtha - Transformation in electricity plants - autoproducers
+Naphtha - Transformation in electricity plants - main activity producers
+Naphtha - Transformation in gas works
+Naphtha - Transformation in heat plants - main activity producers
+Naphtha - Transformation in petrochemical plants
+Natural gas (including LNG) - consumption by chemical and petrochemical
+Natural Gas (including LNG) - consumption by commerce and public services
+Natural Gas (including LNG) - consumption by construction
+Natural gas (including LNG) - consumption by domestic navigation
+Natural Gas (including LNG) - consumption by food and tobacco
+Natural gas (including LNG) - consumption by households
+Natural Gas (including LNG) - consumption by industries not elsewhere specified
+Natural gas (including LNG) - consumption by iron and steel
+Natural Gas (including LNG) - consumption by machinery
+Natural gas (including LNG) - consumption by manufacturing, construction and non-fuel industry
+Natural Gas (including LNG) - consumption by mining and quarrying
+Natural Gas (including LNG) - consumption by non-ferrous metals
+Natural Gas (including LNG) - consumption by non-metallic minerals
+Natural gas (including LNG) - consumption by other
+Natural gas (including LNG) - consumption by other manuf., const. and non-fuel ind.
+Natural Gas (including LNG) - consumption by paper, pulp and print
+Natural Gas (including LNG) - consumption by pipeline transport
+Natural Gas (including LNG) - consumption by textile and leather
+Natural gas (including LNG) - consumption by transport
+Natural Gas (including LNG) - consumption by transport equipment
+Natural Gas (including LNG) - consumption by wood and wood products
+Natural gas (including LNG) - consumption in agriculture, forestry and fishing
+Natural gas (including LNG) - consumption in road
+Natural gas (including LNG) - consumption not elsewhere specified (other)
+Natural gas (including LNG) - consumption not elsewhere specified (transport)
+Natural gas (including LNG) - energy industries own use
+Natural gas (including LNG) - exports
+Natural gas (including LNG) - extraction loss shrinkage
+Natural gas (including LNG) - final consumption
+Natural Gas (including LNG) - final energy consumption
+Natural gas (including LNG) - Flared
+Natural gas (including LNG) - flared and vented
+Natural gas (including LNG) - imports
+Natural gas (including LNG) - losses
+Natural gas (including LNG) - Memo: Closing stock level (national territory)
+Natural gas (including LNG) - Memo:Gross production
+Natural gas (including LNG) - Memo: Opening stock level (national territory)
+Natural gas (including LNG) - non-energy uses
+Natural gas (including LNG) - other energy industry own use
+Natural gas (including LNG) - other transformation
+Natural Gas (including LNG) - own use by blast furnaces
+Natural gas (including LNG) - own use by coal mines
+Natural gas (including LNG) - own use by coke ovens
+Natural gas (including LNG) - own use by electricity, heat and CHP plants
+Natural gas (including LNG) - own use by gas works
+Natural Gas (including LNG) - own use by LNG/regasification plants
+Natural gas (including LNG) - own use by oil and gas extraction
+Natural gas (including LNG) - own use by oil refineries
+Natural gas (including LNG) - production
+Natural gas (including LNG) - re-injected
+Natural Gas (including LNG) - receipts from other sources
+Natural gas (including LNG) - stock changes
+Natural gas (including LNG) - total energy supply
+Natural gas (including LNG) - total resources
+Natural gas (including LNG) - transformation
+Natural gas (including LNG) - transformation in blast furnaces
+Natural Gas (including LNG) - transformation in CHP plants - autoproducers
+Natural Gas (including LNG) - transformation in CHP plants - main activity producers
+Natural gas (including LNG) - transformation in coke ovens
+Natural gas (including LNG) - transformation in electricity, CHP and heat plants
+Natural Gas (including LNG) - transformation in electricity plants - autoproducers
+Natural Gas (including LNG) - transformation in electricity plants - main activity producers
+Natural Gas (including LNG) - transformation in gas-to-liquid plants
+Natural gas (including LNG) - transformation in gas works
+Natural Gas (including LNG) - transformation in heat plants - autoproducers
+Natural Gas (including LNG) - transformation in heat plants - main activity producers
+Natural Gas (including LNG) - transformation in oil refineries
+Natural gas (including LNG) - Vented
+Natural gas liquids - Consumption by agriculture, forestry and fishing
+Natural gas liquids - Consumption by chemical and petrochemical
+Natural gas liquids - Consumption by commerce and public services
+Natural gas liquids - Consumption by food and tobacco 
+Natural gas liquids - Consumption by households
+Natural gas liquids - Consumption by iron and steel
+Natural gas liquids - Consumption by machinery 
+Natural gas liquids - Consumption by manufacturing, construction and non-fuel mining industry
+Natural gas liquids - Consumption by mining and quarrying 
+Natural gas liquids - Consumption by non-ferrous metals 
+Natural gas liquids - Consumption by non-metallic minerals 
+Natural gas liquids - Consumption by Other
+Natural gas liquids - Consumption by other manufacturing, construction and non-fuel mining industry
+Natural gas liquids - Consumption by paper, pulp and print
+Natural gas liquids - Consumption by road
+Natural gas liquids - Consumption by textile and leather 
+Natural gas liquids - Consumption by transport equipment 
+Natural gas liquids - Consumption by wood and wood products 
+Natural gas liquids - Consumption in transport
+Natural gas liquids - Consumption not elsewhere specified (industry)
+Natural gas liquids - Energy industries own use
+Natural gas liquids - Exports
+Natural gas liquids - Final consumption
+Natural gas liquids - Final energy consumption
+Natural gas liquids - Imports
+Natural gas liquids - Losses
+Natural gas liquids - Non-energy uses
+Natural gas liquids - Other energy industry own use
+Natural gas liquids - Other transformation
+Natural gas liquids - Own use by electricity, heat and CHP plants
+Natural gas liquids - Own use by oil and gas extraction
+Natural gas liquids - Production
+Natural gas liquids - Stock changes
+Natural gas liquids - Total energy supply
+Natural gas liquids - Transfers and recycled products
+Natural gas liquids - Transformation
+Natural gas liquids - Transformation in CHP plants - autoproducers
+Natural gas liquids - Transformation in electricity, CHP and heat plants
+Natural gas liquids - Transformation in electricity plants - autoproducers
+Natural gas liquids - Transformation in electricity plants - main activity producers
+Natural gas liquids -  Transformation in natural gas blending plants
+Natural gas liquids - Transformation in oil refineries
+Natural gas liquids - Transformation in petrochemical plants
+Electricity - total nuclear production
+Of which: biodiesel - Consumption by agriculture, forestry and fishing
+Of which: biodiesel - Consumption by chemical and petrochemical
+Of which: biodiesel - Consumption by commerce and public services
+Of which: biodiesel - Consumption by construction 
+Of which: biodiesel - Consumption by domestic navigation
+Of which: biodiesel - Consumption by food and tobacco 
+Of which: biodiesel - Consumption by households
+Of which: biodiesel - Consumption by iron and steel
+Of which: biodiesel - Consumption by machinery 
+Of which: biodiesel - Consumption by manufacturing, construction and non-fuel mining industry
+Of which: biodiesel - Consumption by mining and quarrying 
+Of which: biodiesel - Consumption by non-metallic minerals 
+Of which: biodiesel - Consumption by other
+Of which: biodiesel - Consumption by other manufacturing, construction and non-fuel mining industry
+Of which: biodiesel - Consumption by paper, pulp and print
+Of which: biodiesel - Consumption by rail
+Of which: biodiesel - Consumption by road
+Of which: biodiesel - Consumption by transport equipment 
+Of which: biodiesel - Consumption by wood and wood products 
+Of which: biodiesel - Consumption in transport
+Of which: biodiesel - Consumption not elsewhere specified (industry)
+Of which: biodiesel - Consumption not elsewhere specified (other)
+Of which: biodiesel - Consumption not elsewhere specified (transport)
+Of which: biodiesel - Energy industries own use
+Of which: biodiesel - Exports
+Of which: biodiesel - Final consumption
+Of which: biodiesel - Final energy consumption
+Of which: biodiesel - Imports
+Of which: biodiesel - International marine bunkers
+Of which: biodiesel - Losses
+Of which: biodiesel - Own use by coal mines
+Of which: biodiesel - Own use by oil and gas extraction
+Of which: biodiesel - Receipts from other sources
+Of which: biodiesel - Stock changes
+Of which: biodiesel - Total energy supply
+Of which: biodiesel - Transfers and recycled products
+Of which: biodiesel - Transformation
+Of which: biodiesel - Transformation in CHP plants - main activity producers
+Of which: biodiesel - Transformation in electricity, CHP and heat plants
+Of which: biodiesel - Transformation in electricity plants - autoproducers
+Of which: biodiesel - Transformation in electricity plants - main activity producers
+Of which: biogasoline - Consumption by agriculture, forestry and fishing
+Of which: biogasoline - Consumption by commerce and public services
+Of which: biogasoline - Consumption by domestic navigation
+Of which: biogasoline - Consumption by manufacturing, construction and non-fuel mining industry
+Of which: biogasoline - Consumption by mining and quarrying 
+Of which: biogasoline - Consumption by other
+Of which: biogasoline - Consumption by other manuf., const. and non-fuel ind.
+Of which: biogasoline - Consumption by road
+Of which: biogasoline - Consumption in transport
+Of which: biogasoline - Consumption not elsewhere specified (industry)
+Of which: biogasoline - Consumption not elsewhere specified (other)
+Of which: biogasoline - Consumption not elsewhere specified (transport)
+Of which: biogasoline - Energy industries own use
+Of which: biogasoline - Exports
+Of which: biogasoline - Final consumption
+Of which: biogasoline - Final energy consumption
+Of which: biogasoline - Imports
+Of which: biogasoline - Losses
+Of which: biogasoline - Own use by coal mines
+Of which: biogasoline - Own use by oil and gas extraction
+Of which: biogasoline - Receipts from other sources
+Of which: biogasoline - Stock changes
+Of which: biogasoline - Total energy supply
+Of which: biogasoline - Transfers and recycled products
+Oil shale - consumption by chemical and petrochemical industry
+Oil Shale - Consumption by manufacturing, construction and non-fuel industry
+Oil Shale - Consumption by non-metallic minerals 
+Oil shale - Consumption by other manuf., const. and non-fuel min. ind.
+Oil Shale - Consumption by textile and leather 
+Oil Shale - Consumption by wood and wood products 
+Oil shale - Energy industries own use
+Oil shale - Exports
+Oil Shale - Final consumption
+Oil Shale - Final energy consumption
+Oil shale - Imports
+Oil shale - Losses
+Oil shale - Non-energy use
+Oil shale - Other energy industry own use
+Oil shale - Own use in coal mines
+Oil shale - Production
+Oil shale - Stock changes
+Oil shale - Total energy supply
+Oil shale - Transformation
+Oil Shale - Transformation in CHP plants - autoproducers
+Oil Shale - Transformation in CHP plants - main activity producers
+Oil Shale - Transformation in coal liquefaction plants
+Oil shale - Transformation in coke ovens
+Oil shale - Transformation in electricity, CHP and heat plants
+Oil Shale - Transformation in electricity plants - autoproducers
+Oil Shale - Transformation in electricity plants - main activity producers
+Oil shale - Transformation in gas works
+Oil Shale - Transformation in heat plants - autoproducers
+Oil Shale - Transformation in heat plants - main activity producers
+Other bituminous coal - consumption by agriculture, forestry and fishing
+Other bituminous coal - consumption by chemical and petrochemical industry
+Other bituminous coal - consumption by construction industry
+Other bituminous coal - consumption by domestic navigation
+Other bituminous coal - consumption by food and tobacco industry
+Other bituminous coal - consumption by households
+Other bituminous coal - consumption by iron and steel industry
+Other bituminous coal - consumption by machinery industry
+Other bituminous coal - consumption by manufacturing, construction and non-fuel industry
+Other bituminous coal - consumption by mining and quarrying industry
+Other bituminous coal - consumption by non-ferrous metals industry
+Other bituminous coal - consumption by non-metallic minerals
+Other bituminous coal - consumption by other
+Other bituminous coal - consumption by other manuf., const. and non-fuel ind.
+Other bituminous coal - consumption by paper, pulp and print
+Other bituminous coal - consumption by rail
+Other bituminous coal - consumption by textile and leather industry
+Other bituminous coal - consumption by transport
+Other bituminous coal - consumption by transport equipment industry
+Other bituminous coal - consumption by wood and wood products industry
+Other bituminous coal - consumption for non-energy uses
+Other bituminous coal - consumption in commerce and public services
+Other bituminous coal - consumption not elsewhere specified (industry)
+Other bituminous coal - consumption not elsewhere specified (other)
+Other bituminous coal - consumption not elsewhere specified (transport)
+Other bituminous coal - energy industries own use
+Other bituminous coal - exports
+Other bituminous coal - final consumption
+Other bituminous coal - final energy consumption
+Other bituminous coal - imports
+Other bituminous coal - international marine bunkers
+Other bituminous coal - losses
+Other bituminous coal - other energy industry own use
+Other bituminous coal - other transformation
+Other bituminous coal - own use by briquetting plants
+Other bituminous coal - own use by coal liquefaction plants
+Other bituminous coal - own use by coal mines
+Other bituminous coal - own use by coke ovens
+Other bituminous coal - own use by electricity, CHP and heat plants
+Other bituminous coal - own use by gas works
+Other bituminous coal - own use by oil refineries
+Other bituminous coal - production
+Other bituminous coal - receipts from other sources
+Other bituminous coal - stock changes
+Other bituminous coal - total energy supply
+Other bituminous coal - transformation
+Other bituminous coal - transformation in autoproducer CHP plants
+Other bituminous coal - transformation in autoproducer electricity plants
+Other bituminous coal - transformation in autoproducer heat plants
+Other bituminous coal - transformation in blast furnaces
+Other bituminous coal - transformation in briquetting plants
+Other bituminous coal - transformation in coal liquefaction plants
+Other bituminous coal - transformation in coke ovens
+Other bituminous coal - Transformation in electricity, CHP and heat plants
+Other bituminous coal - transformation in gas works
+Other bituminous coal - transformation in main activity producer CHP plants
+Other bituminous coal - transformation in main activity producer electricity plants
+Other bituminous coal - transformation in main activity producer heat plants
+Other coal products - Consumption by manufacturing, construction and non-fuel mining industry
+Other coal products - Consumption by other
+Other coal products - Consumption by other manufacturing, construction and non-fuel mining industry
+Other coal products - Consumption not elsewhere specified (industry)
+Other coal products - Consumption not elsewhere specified (other)
+Other coal products - Exports
+Other coal products - Final consumption
+Other coal products - Final energy consumption
+Other coal products - Imports
+Other coal products - Total energy supply
+Other hydrocarbons - exports
+Other hydrocarbons - imports
+Other hydrocarbons - losses
+Other hydrocarbons - production
+Other hydrocarbons - receipts from other sources
+Other hydrocarbons - stock changes
+Other hydrocarbons - total energy supply
+Other hydrocarbons - transfers and recycled products
+Other hydrocarbons - transformation
+Other hydrocarbons - transformation in CHP plants - main activity producers
+Other hydrocarbons - transformation in electricity, CHP and heat plants
+Other hydrocarbons - transformation in electricity plants - autoproducers
+Other hydrocarbons - transformation in electricity plants - main activity producers
+Other hydrocarbons - transformation in oil refineries
+Other kerosene - Consumption by chemical and petrochemical
+Other kerosene - Consumption by commerce and public services
+Other kerosene - Consumption by construction 
+Other kerosene - Consumption by domestic aviation
+Other kerosene - Consumption by domestic navigation
+Other kerosene - Consumption by food and tobacco 
+Other kerosene - Consumption by households
+Other kerosene - Consumption by iron and steel
+Other kerosene - Consumption by machinery 
+Other kerosene - Consumption by manufacturing, construction and non-fuel industry
+Other kerosene - Consumption by mining and quarrying 
+Other kerosene - Consumption by non-ferrous metals 
+Other kerosene - Consumption by non-metallic minerals 
+Other kerosene - Consumption by other
+Other kerosene - Consumption by other manuf., const. and non-fuel ind.
+Other kerosene - Consumption by paper, pulp and print
+Other kerosene - Consumption by pipeline transport
+Other kerosene - Consumption by textile and leather 
+Other kerosene - Consumption by transport
+Other kerosene - Consumption by transport equipment 
+Other kerosene - Consumption by wood and wood products 
+Other kerosene - Consumption in agriculture, forestry and fishing
+Other kerosene - Consumption in rail
+Other kerosene - consumption in road
+Other kerosene - Consumption not elsewhere specified (industry)
+Other kerosene - Consumption not elsewhere specified (other)
+Other kerosene - Consumption not elsewhere specified (transport)
+Other kerosene - Energy industries own use
+Other kerosene - Exports
+Other kerosene - Final consumption
+Other kerosene - Final energy consumption
+Other kerosene - Imports
+Other kerosene - International aviation bunkers
+Other kerosene - International marine bunkers
+Other kerosene - Losses
+Other kerosene - Non-energy uses
+Other Kerosene - Other energy industry own use
+Other kerosene - Other transformation
+Other kerosene - Own use by coal mines
+Other kerosene - Own use by coke ovens
+Other kerosene - Own use by electricity, CHP and heat plants
+Other kerosene - Own use by gas works
+Other kerosene - Own use by oil and gas extraction
+Other kerosene - Own use by oil refineries
+Other kerosene - Production
+Other kerosene - production from plants
+Other kerosene - production from refineries
+Other kerosene - Receipts from other sources
+Other kerosene - Stock changes
+Other kerosene - Total energy supply
+Other kerosene - Transfers and recycled products
+Other kerosene - Transformation
+Other kerosene - Transformation in CHP plants - autoproducers
+Other kerosene - Transformation in CHP plants - main activity producers
+Other kerosene - Transformation in electricity, CHP and heat plants
+Other kerosene - Transformation in electricity plants - autoproducers
+Other kerosene - Transformation in electricity plants - main activity producers
+Other kerosene - Transformation in heat plants - autoproducers
+Other kerosene - Transformation in heat plants - main activity producers
+Other kerosene - Transformation in natural gas blending plants
+Other kerosene - Transformation in petrochemical plants
+Other liquid biofuels - Consumption by agriculture, forestry and fishing
+Other liquid biofuels - Consumption by chemical and petrochemical
+Other liquid biofuels - Consumption by commerce and public services
+Other liquid biofuels - Consumption by construction 
+Other liquid biofuels - Consumption by food and tobacco 
+Other liquid biofuels - Consumption by households
+Other liquid biofuels - Consumption by iron and steel
+Other liquid biofuels - Consumption by machinery 
+Other liquid biofuels - Consumption by manufacturing, construction and non-fuel mining industry
+Other liquid biofuels - Consumption by mining and quarrying 
+Other liquid biofuels - Consumption by non-ferrous metals 
+Other liquid biofuels - Consumption by non-metallic minerals 
+Other liquid biofuels - Consumption by other
+Other liquid biofuels - Consumption by other manufacturing, construction and non-fuel mining industry
+Other liquid biofuels - Consumption by paper, pulp and print
+Other liquid biofuels - Consumption by road
+Other liquid biofuels - Consumption by transport equipment 
+Other liquid biofuels - Consumption by wood and wood products 
+Other liquid biofuels - Consumption in transport
+Other liquid biofuels - Consumption not elsewhere specified (industry)
+Other liquid biofuels - Consumption not elsewhere specified (other)
+Other liquid biofuels - Energy industries own use
+Other liquid biofuels - Exports
+Other liquid biofuels - Final consumption
+Other liquid biofuels - Final energy consumption
+Other liquid biofuels - Imports
+Other liquid biofuels - Own use by oil refineries
+Other liquid biofuels - Production
+Other liquid biofuels - Stock changes
+Other liquid biofuels - Total energy supply
+Other liquid biofuels - Transformation
+Other liquid biofuels - Transformation in CHP plants - autoproducers
+Other liquid biofuels - Transformation in CHP plants - main activity producers
+Other liquid biofuels - Transformation in electricity, CHP and heat plants
+Other liquid biofuels - Transformation in electricity plants - autoproducers
+Other liquid biofuels - Transformation in electricity plants - main activity producers
+Other liquid biofuels - Transformation in heat plants - autoproducers
+Other liquid biofuels - Transformation in heat plants - main activity producers
+Other oil products n.e.c. - Consumption by agriculture, forestry and fishing
+Other oil products n.e.c. - Consumption by chemical and petrochemical
+Other oil products n.e.c. - Consumption by commerce and public services
+Other oil products n.e.c. - Consumption by construction 
+Other oil products n.e.c. - Consumption by domestic navigation
+Other oil products n.e.c. - Consumption by food and tobacco 
+Other oil products n.e.c. - Consumption by households
+Other oil products n.e.c. - Consumption by industries not elsewhere specified
+Other oil products n.e.c. - Consumption by iron and steel
+Other oil products n.e.c. - Consumption by machinery 
+Other oil products n.e.c. - Consumption by manufacturing, construction and non-fuel mining industry
+Other oil products n.e.c. - Consumption by mining and quarrying 
+Other oil products n.e.c. - Consumption by non-ferrous metals 
+Other oil products n.e.c. - Consumption by non-metallic minerals 
+Other oil products n.e.c. - Consumption by other
+Other oil products n.e.c. - Consumption by other consumers
+Other oil products n.e.c. - Consumption by other manuf., const. and non-fuel min. ind.
+Other oil products n.e.c. - Consumption by other transportation
+Other oil products n.e.c. - Consumption by paper, pulp and print
+Other oil products n.e.c. - Consumption by road
+Other oil products n.e.c. - Consumption by textile and leather 
+Other oil products n.e.c. - Consumption by transport
+Other oil products n.e.c. - Consumption by transport equipment 
+Other oil products n.e.c. - Consumption by wood and wood products 
+Other oil products n.e.c. - Energy industries own use
+Other oil products n.e.c. - Exports
+Other oil products n.e.c. - Final consumption
+Other oil products n.e.c. - Final energy consumption
+Other oil products n.e.c. - Imports
+Other oil products n.e.c. - International marine bunkers
+Other oil products n.e.c. - Losses
+Other oil products n.e.c. - Non-energy uses
+Other oil products n.e.c. - Other energy industry own use
+Other oil products n.e.c. - Other transformation
+Other oil products n.e.c. - Own use by coal mines
+Other oil products n.e.c. - Own use by coke ovens
+Other oil products n.e.c. - Own use by electricity, heat and CHP plants
+Other oil products n.e.c. - Own use by oil and gas extraction
+Other oil products n.e.c. - Own use by oil refineries
+Other oil products n.e.c. - Production
+Other oil products n.e.c. - production from plants
+Other oil products n.e.c. - production from refineries
+Other oil products n.e.c. - Receipts from other sources
+Other oil products n.e.c. - Stock changes
+Other oil products n.e.c. - Total energy supply
+Other oil products n.e.c. - Transfers and recycled products
+Other oil products n.e.c. - Transformation
+Other oil products n.e.c. - Transformation in CHP plants - autoproducers
+Other oil products n.e.c. - Transformation in CHP plants - main activity producers
+Other oil products n.e.c. - Transformation in coke ovens
+Other oil products n.e.c. - Transformation in electricity, CHP and heat plants
+Other oil products n.e.c. - Transformation in electricity plants - autoproducers
+Other oil products n.e.c. - Transformation in electricity plants - main activity producers
+Other oil products n.e.c. - Transformation in gas works
+Other oil products n.e.c. - Transformation in heat plants - autoproducers
+Other oil products n.e.c. - Transformation in heat plants - main activity producers
+Other oil products n.e.c. - Transformation in petrochemical plants
+Other recovered gases - Consumption by chemical and petrochemical
+Other recovered gases - Consumption by iron and steel
+Other recovered gases - Consumption by manufacturing, construction and non-fuel mining industry
+Other recovered gases - Consumption by non-ferrous metals 
+Other recovered gases - Consumption by non-metallic minerals 
+Other recovered gases - Consumption by other manuf., const. and non-fuel ind.
+Other recovered gases - Consumption not elsewhere specified (industry)
+Other recovered gases - Energy industries own use
+Other recovered gases - Final consumption
+Other recovered gases - Final energy consumption
+Other recovered gases - Losses
+Other recovered gases - Non-energy uses
+Other recovered gases - Other energy industry own use
+Other recovered gases - Own use by coke ovens
+Other recovered gases - Own use by electricity, heat and CHP plants
+Other recovered gases - Production
+Other recovered gases - Total energy supply
+Other recovered gases - Transformation
+Other recovered gases - Transformation in CHP plants - autoproducers
+Other recovered gases - Transformation in CHP plants - main activity producers
+Other recovered gases - Transformation in electricity, CHP and heat plants
+Other recovered gases - Transformation in electricity plants - autoproducers
+Other recovered gases - Transformation in electricity plants - main activity producers
+Other recovered gases - Transformation in heat plants - autoproducers
+Other recovered gases - Transformation in heat plants - main activity producers
+Vegetal waste - Consumption by agriculture, forestry and fishing
+Vegetal waste - Consumption by chemical and petrochemical
+Vegetal waste - Consumption by commerce and public services
+Vegetal waste - Consumption by construction 
+Vegetal waste - Consumption by food and tobacco 
+Vegetal waste - Consumption by households
+Vegetal waste - Consumption by iron and steel
+Vegetal waste - Consumption by machinery 
+Vegetal waste - Consumption by manufacturing, construction and non-fuel mining industry
+Vegetal waste - Consumption by mining and quarrying 
+Vegetal waste - Consumption by non-metallic minerals 
+Vegetal waste - Consumption by other
+Vegetal waste - Consumption by other manufacturing, construction and non-fuel mining industry
+Vegetal waste - Consumption by paper, pulp and print
+Vegetal waste - Consumption by textile and leather 
+Vegetal waste - Consumption by wood and wood products 
+Vegetal waste - Consumption not elsewhere specified (industry)
+Vegetal waste - Consumption not elsewhere specified (other)
+Vegetal waste - Energy industries own use
+Vegetal waste - Exports
+Vegetal waste - Final consumption
+Vegetal waste - Final energy consumption
+Vegetal waste - Imports
+Vegetal waste - Losses
+Vegetal waste - Non-energy uses
+Vegetal waste - Other energy industry own use
+Vegetal waste - Other transformation
+Vegetal waste - Own use by electricity, heat and CHP plants
+Vegetal waste - Production
+Vegetal waste - Stock changes
+Vegetal waste - Total energy supply
+Vegetal waste - Transfers and recycled products
+Vegetal waste - Transformation
+Vegetal waste - Transformation in CHP plants - autoproducers
+Vegetal waste - Transformation in CHP plants - main activity producers
+Vegetal waste - Transformation in electricity, CHP and heat plants
+Vegetal waste - Transformation in electricity plants - autoproducers
+Vegetal waste - Transformation in electricity plants - main activity producers
+Vegetal waste - Transformation in heat plants - autoproducers
+Vegetal waste - Transformation in heat plants - main activity producers
+Paraffin waxes - Consumption by chemical and petrochemical
+Paraffin waxes - Consumption by food and tobacco 
+Paraffin waxes - Consumption by industries not elsewhere specified
+Paraffin waxes - Consumption by machinery 
+Paraffin waxes - Consumption by manufacturing, construction and non-fuel mining industry
+Paraffin waxes - Consumption by non-metallic minerals 
+Paraffin waxes - Consumption by other manuf., const. and non-fuel min. ind.
+Paraffin waxes - Consumption by paper, pulp and print
+Paraffin waxes - Consumption by textile and leather 
+Paraffin waxes - Consumption by transport equipment 
+Paraffin waxes - Consumption by wood and wood products 
+Paraffin waxes - Energy industries own use
+Paraffin waxes - Exports
+Paraffin waxes - Final consumption
+Paraffin waxes - Final energy consumption
+Paraffin waxes - Imports
+Paraffin waxes - Losses
+Paraffin waxes - Non-energy uses
+Paraffin waxes - Own use by oil refineries
+Paraffin waxes - Production
+Paraffin waxes - production from refineries
+Paraffin waxes - Stock changes
+Paraffin waxes - Total energy supply
+Paraffin waxes - Transfers and recycled products
+Paraffin waxes - Transformation
+Paraffin waxes - Transformation in petrochemical plants
+Patent fuel - consumption by agriculture, forestry and fishing
+Patent fuel - consumption by chemical and petrochemicalindustry
+Patent fuel - Consumption by commerce and public services
+Patent fuel - Consumption by construction 
+Patent fuel - Consumption by food and tobacco 
+Patent fuel - consumption by households
+Patent fuel - consumption by iron and steel industry
+Patent fuel - Consumption by machinery 
+Patent fuel - consumption by manufacturing, construction and non-fuel mining industry
+Patent fuel - Consumption by non-ferrous metals 
+Patent fuel - Consumption by non-metallic minerals 
+Patent fuel - Consumption by other
+Patent fuel - Consumption by other manuf., const. and non-fuel ind.
+Patent fuel - Consumption by paper, pulp and print
+Patent fuel - Consumption by textile and leather 
+Patent fuel - consumption by transport
+Patent fuel - consumption in rail
+Patent fuel - Consumption not elsewhere specified (industry)
+Patent fuel - Consumption not elsewhere specified (other)
+Patent fuel - Conversion in blast furnaces
+Patent fuel - conversion in briquetting plants
+Patent fuel - energy industries own use
+Patent fuel - exports
+Patent fuel - Final consumption
+Patent fuel - Final energy consumption
+Patent fuel - imports
+Patent fuel - losses
+Patent fuel - non energy uses
+Patent fuel - Own use by briquetting plants
+Patent fuel - own use in coal mines
+Patent fuel - production
+Patent fuel - stock changes
+Patent fuel - Total energy supply
+Patent fuel - Transformation
+Patent fuel - Transformation in CHP plants - autoproducers
+Patent fuel - Transformation in CHP plants - main activity producers
+Patent fuel - Transformation in coke ovens
+Patent fuel - Transformation in electricity, CHP and heat plants
+Patent fuel - Transformation in electricity plants - main activity producers
+Patent fuel - Transformation in heat plants - autoproducers
+Patent fuel - Transformation in heat plants - main activity producers
+Peat - consumption by agriculture, forestry and fishing
+Peat - consumption by chemical and petrochemical
+Peat - consumption by commerce and public services
+Peat - consumption by construction
+Peat - consumption by food and tobacco
+Peat - consumption by households
+Peat - consumption by machinery
+Peat - consumption by manufacturing, construction and non-fuel industry
+Peat - consumption by non-ferrous metals
+Peat - consumption by non-metallic minerals
+Peat - consumption by other
+Peat - consumption by other manuf., const. and non-fuel ind.
+Peat - consumption by paper, pulp and print
+Peat - consumption by rail
+Peat - consumption by textile and leather
+Peat - consumption by transport
+Peat - consumption by wood and wood products
+Peat - consumption not elsewhere specified (industry)
+Peat - consumption not elsewhere specified (other)
+Peat - energy industries own use
+Peat - exports
+Peat - final energy consumption
+Peat (for fuel use) - additional resources
+Peat (for fuel use) - final consumption
+Peat (for fuel use) - recoverable
+Peat (for fuel use) - Total energy supply
+Peat (for fuel use) - total known reserves
+Peat (for fuel use) - total resources in place
+Peat - imports
+Peat - losses
+Peat - non-energy uses
+Peat - other energy industry own use
+Peat - other transformation
+Peat - own use by briquetting plants
+Peat - Own use by coal mines
+Peat - own use in electricity, CHP and heat plants
+Peat - production
+Peat - stock changes
+Peat - transformation
+Peat - transformation in briquetting plants
+Peat - transformation in CHP plants - autoproducers
+Peat - transformation in CHP plants - main activity producers
+Peat - transformation in electricity, CHP and heat plants
+Peat - transformation in electricity plants - autoproducers
+Peat - transformation in electricity plants - main activity producers
+Peat - transformation in heat plants - autoproducers
+Peat - transformation in heat plants - main activity producers
+Peat products - Consumption by agriculture, forestry and fishing
+Peat products - consumption by chemical and petrochemical
+Peat Products - Consumption by commerce and public services
+Peat Products - Consumption by construction 
+Peat Products - Consumption by food and tobacco 
+Peat products - Consumption by households
+Peat products - consumption by iron and steel
+Peat Products - Consumption by machinery 
+Peat products - consumption by manufacturing, construction and non-fuel mining industry
+Peat Products - Consumption by mining and quarrying 
+Peat Products - Consumption by non-ferrous metals 
+Peat Products - Consumption by non-metallic minerals 
+Peat products - Consumption by other
+Peat products - Consumption by other manuf., const. and non-fuel ind.
+Peat Products - Consumption by rail
+Peat Products - Consumption by textile and leather 
+Peat Products - Consumption by transport
+Peat Products - Consumption by transport equipment 
+Peat Products - Consumption by wood and wood products 
+Peat Products - Consumption not elsewhere specified (industry)
+Peat products - Consumption not elsewhere specified (other)
+Peat Products - Consumption not elsewhere specified (transport)
+Peat products - Energy industries own use
+Peat products - exports
+Peat products - final consumption
+Peat Products - Final energy consumption
+Peat products - imports
+Peat products - Losses
+Peat products - non-energy uses
+Peat products - Other energy industry own use
+Peat products - other transformation
+Peat products - Own use by briquetting plants
+Peat Products - Own use by coal mines
+Peat Products - Own use by electricity, CHP and heat plants
+Peat products - production
+Peat products - stock changes
+Peat products - Total energy supply
+Peat products - Transformation
+Peat Products - Transformation in CHP plants - autoproducers
+Peat Products - Transformation in CHP plants - main activity producers
+Peat products - Transformation in electricity, CHP and heat plants
+Peat Products - Transformation in electricity plants - main activity producers
+Peat Products - Transformation in heat plants - autoproducers
+Peat Products - Transformation in heat plants - main activity producers
+Petroleum coke - consumption by chemical and petrochemical
+Petroleum Coke - Consumption by commerce and public services
+Petroleum Coke - Consumption by construction 
+Petroleum Coke - Consumption by food and tobacco 
+Petroleum coke - Consumption by households
+Petroleum Coke - Consumption by industries not elsewhere specified
+Petroleum coke - Consumption by iron and steel
+Petroleum Coke - Consumption by machinery 
+Petroleum coke - Consumption by manufacturing, construction and non-fuel mining industry
+Petroleum Coke - Consumption by mining and quarrying 
+Petroleum Coke - Consumption by non-ferrous metals 
+Petroleum Coke - Consumption by non-metallic minerals 
+Petroleum coke - Consumption by other
+Petroleum coke - Consumption by other consumers
+Petroleum coke - Consumption by other manuf., const. and non-fuel min. ind.
+Petroleum Coke - Consumption by paper, pulp and print
+Petroleum Coke - Consumption by transport equipment 
+Petroleum coke - Consumption in agriculture, forestry and fishing
+Petroleum coke - Energy industries own use
+Petroleum coke - Exports
+Petroleum coke - final consumption
+Petroleum Coke - Final energy consumption
+Petroleum coke - Imports
+Petroleum coke - Losses
+Petroleum coke - Non-energy uses
+Petroleum coke - Other energy industry own use
+Petroleum coke - Other transformation
+Petroleum coke - Own use by blast furnaces
+Petroleum coke - Own use by coke ovens
+Petroleum coke - Own use by electricity, heat and CHP plants
+Petroleum coke - Own use by oil and gas extraction
+Petroleum coke - Own use by oil refineries
+Petroleum coke - Production
+Petroleum coke - production from refineries
+Petroleum coke - Stock changes
+Petroleum coke - Total energy supply
+Petroleum coke - Transfers and recycled products
+Petroleum coke - Transformation
+Petroleum coke - Transformation in briquetting plants
+Petroleum Coke - Transformation in CHP plants - autoproducers
+Petroleum Coke - Transformation in CHP plants - main activity producers
+Petroleum coke - Transformation in coke ovens
+Petroleum coke - Transformation in electricity, CHP and heat plants
+Petroleum Coke - Transformation in electricity plants - autoproducers
+Petroleum Coke - Transformation in electricity plants - main activity producers
+Petroleum Coke - Transformation in heat plants - autoproducers
+Petroleum Coke - Transformation in heat plants - main activity producers
+Feedstocks - exports
+Feedstocks - imports
+Feedstocks - production
+Feedstocks - production from refineries
+Feedstocks - Receipts from other sources
+Feedstocks - stock changes
+Feedstocks - total energy supply
+Feedstocks - transfers and recycled products
+Feedstocks - transformation
+Feedstocks - transformation in oil refineries
+Refinery gas - consumption by chemical and petrochemical
+Refinery Gas - Consumption by commerce and public services
+Refinery Gas - Consumption by construction 
+Refinery Gas - Consumption by food and tobacco 
+Refinery gas - Consumption by households
+Refinery Gas - Consumption by industries not elsewhere specified
+Refinery gas - Consumption by iron and steel
+Refinery gas - consumption by manufacturing, construction and non-fuel mining industry
+Refinery Gas - Consumption by mining and quarrying 
+Refinery Gas - Consumption by non-metallic minerals 
+Refinery gas - Consumption by other
+Refinery gas - consumption by other consumers
+Refinery gas - consumption by other manuf., const. and non-fuel min. ind.
+Refinery Gas - Consumption by paper, pulp and print
+Refinery Gas - Consumption by transport equipment 
+Refinery gas - Energy industries own use
+Refinery gas - Final consumption
+Refinery Gas - Final energy consumption
+Refinery gas - Losses
+Refinery gas - Non-energy uses
+Refinery gas - Other energy industry own use
+Refinery gas - Own use by coke ovens
+Refinery gas - Own use by electricity, heat and CHP plants
+Refinery gas - Own use by oil and gas extraction
+Refinery gas - Own use by oil refineries
+Refinery gas - Production
+Refinery gas - Production from refineries
+Refinery gas - Stock changes
+Refinery gas - Total energy supply
+Refinery gas - Transfers and recycled products
+Refinery gas - Transformation
+Refinery Gas - Transformation in CHP plants - autoproducers
+Refinery Gas - Transformation in CHP plants - main activity producers
+Refinery gas - Transformation in coke ovens
+Refinery gas - Transformation in electricity, CHP and heat plants
+Refinery Gas - Transformation in electricity plants - autoproducers
+Refinery Gas - Transformation in electricity plants - main activity producers
+Refinery gas - Transformation in gas works
+Refinery Gas - Transformation in heat plants - autoproducers
+Refinery Gas - Transformation in heat plants - main activity producers
+Refinery gas - Transformation in natural gas blending plants
+Refinery gas - Transformation in other energy-producing plants
+Refinery Gas - Transformation in petrochemical plants
+Electricity - total solar production
+Sub-bituminous coal - Consumption by agriculture, forestry and fishing
+Sub-bituminous coal - Consumption by briquetting plants
+Sub-bituminous coal - Consumption by chemical industry
+Sub-bituminous coal - Consumption by coal mines
+Sub-bituminous coal - Consumption by commerce and public services
+Sub-bituminous coal - Consumption by construction industry
+Sub-bituminous coal - Consumption by domestic navigation
+Sub-bituminous coal - Consumption by electricity, CHP and heat plants
+Sub-bituminous coal - Consumption by energy sector
+Sub-bituminous coal - Consumption by food and tobacco industry
+Sub-bituminous coal - Consumption by households
+Sub-bituminous coal - Consumption by iron and steel industry
+Sub-bituminous coal - Consumption by machinery industry
+Sub-bituminous coal - Consumption by manufacturing, construction and non-fuel industry
+Sub-bituminous coal - Consumption by mining and quarrying industry
+Sub-bituminous coal - Consumption by Non-ferrous metals industry
+Sub-bituminous coal - Consumption by non-metallic minerals industry
+Sub-bituminous coal - Consumption by other
+Sub-bituminous coal - Consumption by other manuf., const. and non-fuel ind.
+Sub-bituminous coal - Consumption by paper, pulp and print
+Sub-bituminous coal - Consumption by rail
+Sub-bituminous coal - Consumption by textile and leather
+Sub-bituminous coal - Consumption by transport
+Sub-bituminous coal - Consumption by transport equipment industry
+Sub-bituminous coal - Consumption by wood and wood products industry
+Sub-bituminous coal - Consumption for non-energy uses
+Sub-bituminous coal - Consumption not elsewhere specified (industry)
+Sub-bituminous coal - Consumption not elsewhere specified (other)
+Sub-bituminous coal - Consumption not elsewhere specified (transport)
+Sub-bituminous coal - Exports
+Sub-bituminous coal - Final consumption
+Sub-bituminous coal - Final energy consumption
+Sub-bituminous coal - Imports
+Sub-bituminous coal - losses
+Sub-bituminous coal - Production
+Sub-bituminous coal - Receipts from other sources
+Sub-bituminous coal - Stock changes
+Sub-bituminous coal - Total energy supply
+Sub-bituminous coal - Transformation
+Sub-bituminous coal - Transformation in autoproducer CHP plants
+Sub-bituminous coal - Transformation in autoproducer electricity plants
+Sub-bituminous coal - Transformation in autoproducer heat plants
+Sub-bituminous coal - Transformation in briquetting plants
+Sub-bituminous coal - Transformation in coke ovens
+Sub-bituminous coal - Transformation in electricity, CHP and heat plants
+Sub-bituminous coal - Transformation in main activity electricity plants
+Sub-bituminous coal - Transformation main activity CHP plants
+Sub-bituminous coal - Transformation main activity heat plants
+Electricity - total thermal production
+Electricity - total tide, wave production
+Electricity - Consumption by chemical and petrochemical
+Electricity - Consumption by commercial and public services
+Electricity - Consumption by construction
+Electricity - Consumption by food and tobacco
+Electricity - Consumption by households
+Electricity - Consumption by iron and steel
+Electricity - Consumption by machinery
+Electricity - Consumption by manufacturing, construction and non-fuel industry
+Electricity - Consumption by mining and quarrying
+Electricity - Consumption by non-ferrous metals
+Electricity - Consumption by non-metallic minerals
+Electricity - Consumption by other
+Electricity - Consumption by other manuf., const. and non-fuel ind.
+Electricity - Consumption by paper, pulp and print
+Electricity - Consumption by pipeline transport
+Electricity - Consumption by rail
+Electricity - Consumption by road
+Electricity - Consumption by textile and leather
+Electricity - Consumption by transport
+Electricity - Consumption by transport equipment
+Electricity - Consumption by wood and wood products
+Electricity - Consumption in agriculture, forestry and fishing
+Electricity - Consumption not elsewhere specified (industry)
+Electricity - Consumption not elsewhere specified (other)
+Electricity - Consumption not elsewhere specified (transport)
+Electricity - Energy industries own use
+Electricity - exports
+Electricity - Final energy consumption
+Electricity - Gross demand
+Electricity - Gross production
+Electricity - imports
+Electricity - Losses
+Electricity - net production
+Electricity - Other energy industry own use
+Electricity - Own use by blast furnaces
+Electricity - Own use by briquetting plants
+Electricity - Own use by coal liquefaction plants
+Electricity - Own use by coal mines
+Electricity - Own use by coke ovens
+Electricity - Own use by electricity, heat and CHP plants
+Electricity - Own use by gas-to-liquid (GTL) plants
+Electricity - Own use by gas works
+Electricity - Own use by LNG/regasification plants
+Electricity - Own use by nuclear fuel extraction and processing
+Electricity - Own use by oil and gas extraction
+Electricity - Own use by oil refineries
+Electricity - Own use by pump-storage plants
+Electricity - total production, autoproducer
+Electricity - total production, main activity
+Electricity - Used for electric boilers
+Electricity - Used for heat pumps
+From chemical heat – Autoproducer
+From chemical heat – Autoproducer – CHP plants
+From chemical heat – Autoproducer – Electricity plants
+From chemical heat – Main activity
+From chemical heat – Main activity – CHP plants
+From chemical heat – Main activity – Electricity plants
+From combustible fuels – Autoproducer – Electricity plants
+From combustible fuels – Main activity – Electricity plants
+From other sources – Autoproducer – Electricity plants
+From other sources – Main activity – Electricity plants
+Geothermal – Autoproducer – Electricity plants
+Geothermal – Main activity – Electricity plants
+Hydro – Autoproducer
+Hydro – Main activity
+Nuclear – Autoproducer
+Nuclear – Autoproducer – CHP plants
+Nuclear – Autoproducer – Electricity plants
+Nuclear – Main activity – Electricity plants
+Of which: Pumped hydro – Autoproducer
+Of which: Pumped hydro – Main activity
+Solar – Autoproducer
+Solar – Main activity
+Solar photovoltaic – Autoproducer
+Solar photovoltaic – Main activity
+Tide, wave and marine – Autoproducer
+Tide, wave and marine – Main activity
+Wind – Autoproducer
+Wind – Main activity
+Total refinery output
+Total refinery throughput
+Uranium - estimated additional reserves
+Uranium - production
+Uranium - reasonably assured reserves
+White spirit and special boiling point industrial spirits - Consumption by chemical and petrochemical
+White spirit and special boiling point industrial spirits - Consumption by construction 
+White spirit and special boiling point industrial spirits - Consumption by food and tobacco 
+White spirit and special boiling point industrial spirits - Consumption by industries not elsewhere specified
+White spirit and special boiling point industrial spirits - Consumption by industry & construction
+White spirit and special boiling point industrial spirits - Consumption by iron and steel industry
+White spirit and special boiling point industrial spirits - Consumption by machinery 
+White spirit and special boiling point industrial spirits - Consumption by mining and quarrying 
+White spirit and special boiling point industrial spirits - Consumption by non-ferrous metals 
+White spirit and special boiling point industrial spirits - Consumption by non-metallic minerals 
+White spirit and special boiling point industrial spirits - Consumption by other
+White spirit and special boiling point industrial spirits - Consumption by other consumers
+White spirit and special boiling point industrial spirits - consumption by other industries and construction
+White spirit and special boiling point industrial spirits - Consumption by paper, pulp and print
+White spirit and special boiling point industrial spirits - Consumption by rail
+White spirit and special boiling point industrial spirits - Consumption by road
+White spirit and special boiling point industrial spirits - Consumption by textile and leather 
+White spirit and special boiling point industrial spirits - Consumption by transport
+White spirit and special boiling point industrial spirits - Consumption by transport equipment 
+White spirit and special boiling point industrial spirits - Consumption by wood and wood products 
+White spirit and special boiling point industrial spirits - Energy industries own use
+White spirit and special boiling point industrial spirits - Exports
+White spirit and special boiling point industrial spirits - final consumption
+White spirit and special boiling point industrial spirits - Final energy consumption
+White spirit and special boiling point industrial spirits - Imports
+White spirit and special boiling point industrial spirits - Losses
+White spirit and special boiling point industrial spirits - Non-energy uses
+White spirit and special boiling point industrial spirits - Own use by oil refineries
+White spirit and special boiling point industrial spirits - Production
+White spirit and special boiling point industrial spirits - production from plants
+White spirit and special boiling point industrial spirits - production from refineries
+White spirit and special boiling point industrial spirits - Stock changes
+White spirit and special boiling point industrial spirits - Total energy supply
+White spirit and special boiling point industrial spirits - Transfers and recycled products
+White spirit and special boiling point industrial spirits - Transformation
+White spirit and special boiling point industrial spirits - Transformation in petrochemical plants
+Electricity - total wind production
