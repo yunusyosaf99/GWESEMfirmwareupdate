@@ -15,17 +15,7 @@ import socket
 import threading
 
 Key = {
-  "type": "service_account",
-  "project_id": "greenwend-1d975",
-  "private_key_id": "eb7e97eba4ef5e3255d9dde4ceb6b01313ad4add",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYqAy6ypRacUah\n+JgvJn3/RQy2g5r6I9sVWi19Vh3r9lpLheG3fq3GpzW6ysMfqlPTmHxl9p4VlNH8\nXD967sOhltj+/Cv7vvhec+rpNGgQMmQKZn2W647aQYFLm8K3RryPCEMgkoikEzmH\nh+r82It/H/XGx0UMqfU9fsZ3v7m6bAFDVRGelTb1clbVJrnyW8WbaTBZYp4QaEcr\nIE53sz7i9sPOAtAP4Gij4IvN2Axguz1aRkeiQc4z6T32DeK7MRpt1x/sowkDKaUS\nhoP1c/ycEABLN1yN9120qq8m4pHjYp082jj48buhKFFxn4hSh3Ezk2HBPgpVT2s/\ngiFQrW+XAgMBAAECggEAVL2qOPdafmOXBmxHDg4msw0tc0fXeqZCnz/l0gO4cV4q\npCaKCiz0yGIHfHepST3kSrt2UKVc4MEUPvpP5AP2pcHsPxOgGnfwCnWZeLyERW2I\nPp8m2TxqZAjCCzIxv2DeCK3pH5jg9BgG5PFvIpWKPl9gUO8JHXJuly56b0Ug3n5+\nwkqSq6tQsZ8CJ+CPluHMnS7Y+fL1B3hUZB9MX3suPBqZXixIzrK4r95fAXKGy/lO\nk/MejXBW3Sz3VjVrx1uRulH454whpypdQr1707AcqnP9ewORYDMQ8ayRhMBmWJxi\nFYoeapYxg7eJDXqwHGZUJ4mMeljPLb3/O3N1A6SgQQKBgQD08sWQGw8z4r58vWAX\nCofnaGMgdt0XfcLNWGUwsRSg5WDd+tIUQLn9RhXv+f2SHV9Tp39AA+cAb5a9s0I+\nJsaP1Lj06BN8hla8/Jk/t1hBYW2UC+0x0uR5WaJYXvPH3MutNQsQsm1jgaKICFVk\nnVoZSU+Mn5a591g9pffiFrtAQQKBgQDibn+B2dSnzFKXaAI+YfgJIiBNFjg3kSPI\nL6R3S8E9W/LfEjJG3MWfSZt2LwJCEleWiNw/OahVlDoWfNJslIrjYg7SJNfXmKmJ\nVWa8qIeYv55vCJX4BPpIZGzXLgUedIS5eQEJmTpGb+q6Gy3uNPScs5CEXPpijYBn\nX+slQRw51wKBgEfJirsUIx16u4cFXU8DaBca0cpm658B3YCfAnEFxNzuvLfx1XXY\nDmo7CxzcsEMNVq3GrhWNzzqieZQ5IBXk+VaX6mjkRym8mVkj0qoIytXGfv3fjPGI\nNCuYaGrr0RhnDk5B+G85S7PY/1BM2PH257v3b1fwQZVY90SCCqb5MIHBAoGBAKjI\n3VsZ2R7Le7VI3oNJ2+5S9ekAax9gnV+Xw+z5Fy553+zQT5Hq95To9W1/VRuTOJ8J\nncOzYvuH5lTk7qXphC5C5fFXbV1UeuvYMSDoL0t5aswxhji+3SIhWdB8iWxORrFK\nta9F/N6Mhlf78pzh9ITqhQtlk27rM4/bPBklE7k5AoGBAPD3kSedRO3+UmsXnj81\npEipNAwVQrzbKNS+vD5Puv436dou0Hu/LzqtMbMkQ+Qhvb0eu2cJ5jYJVOye9hSK\nISGHQH/+QJ1xk/YSEub/AUo2K7LnmZsOqJ+sy89QeT5iA3i5Hb9w/KpDNI6+7eQf\nv6a4nYeL8NspNoxRs6JD6VEk\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-2esta@greenwend-1d975.iam.gserviceaccount.com",
-  "client_id": "110906030481039852376",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2esta%40greenwend-1d975.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  # Your json KEY
 }
 
 license_text = "Software License Agreement\n\n\
